@@ -9,9 +9,9 @@ Live category: [polymarket.com/weather/temperature](https://polymarket.com/weath
 1. GitHub Actions runs `scripts/refresh.py` about every **5 minutes** (GitHub’s minimum schedule) and on manual dispatch.
 2. The script pulls open daily-temperature events from the Polymarket Gamma API, fetches ensemble highs/lows for each city airport, histograms members into market buckets, and writes `data/opportunities.json`.
 3. The static UI loads that JSON and lists opportunities sorted by absolute edge (`modelProb − bestAsk`).
-4. Use **Refresh data** on the site to queue `workflow_dispatch` (requires a browser-stored GitHub PAT with Actions write). Or open the **Actions** link and run the workflow manually.
+4. Use **Refresh data** on the site to open the GitHub Actions workflow page, then click **Run workflow**.
 
-No wallets or trading — read-only scanner. The optional refresh token stays in your browser `localStorage` only.
+No wallets or trading — read-only scanner.
 
 ## Local refresh
 

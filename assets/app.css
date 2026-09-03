@@ -82,15 +82,9 @@ body {
   }
 }
 
-.refresh-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.65rem;
-  align-items: center;
-}
-
 .refresh-btn {
   appearance: none;
+  display: inline-block;
   border: 1px solid rgba(20, 35, 58, 0.18);
   background: #0d6e6e;
   color: #f4fbfb;
@@ -100,117 +94,13 @@ body {
   padding: 0.55rem 0.95rem;
   border-radius: 0.4rem;
   cursor: pointer;
+  text-decoration: none;
   transition: background 0.15s ease, transform 0.15s ease;
 }
 
-.refresh-btn:hover:not(:disabled) {
+.refresh-btn:hover {
   background: #0a5a5a;
-}
-
-.refresh-btn:disabled {
-  opacity: 0.55;
-  cursor: wait;
-}
-
-.ghost-btn {
-  appearance: none;
-  border: 1px solid var(--line);
-  background: var(--paper);
-  color: var(--ink);
-  font: inherit;
-  font-size: 0.9rem;
-  font-weight: 600;
-  padding: 0.5rem 0.85rem;
-  border-radius: 0.4rem;
-  cursor: pointer;
-}
-
-.actions-link {
-  color: var(--accent);
-  font-weight: 600;
-  font-size: 0.9rem;
-  text-decoration: none;
-}
-
-.actions-link:hover {
-  text-decoration: underline;
-}
-
-.refresh-status {
-  margin: 0;
-  min-height: 1.2em;
-  font-size: 0.88rem;
-  color: var(--muted);
-  max-width: 22rem;
-}
-
-.token-dialog {
-  border: 1px solid var(--line);
-  border-radius: 0.75rem;
-  padding: 0;
-  max-width: 26rem;
-  width: calc(100% - 2rem);
-  background: #f7fbff;
-  color: var(--ink);
-  box-shadow: var(--shadow);
-}
-
-.token-dialog::backdrop {
-  background: rgba(20, 35, 58, 0.35);
-}
-
-.token-dialog form {
-  display: grid;
-  gap: 0.85rem;
-  padding: 1.25rem 1.35rem 1.35rem;
-}
-
-.token-dialog h2 {
-  margin: 0;
-  font-family: var(--font-display);
-  font-size: 1.35rem;
-}
-
-.token-dialog p {
-  margin: 0;
-  font-size: 0.9rem;
-  color: var(--muted);
-  line-height: 1.45;
-}
-
-.token-dialog label {
-  display: grid;
-  gap: 0.35rem;
-  font-size: 0.78rem;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
-
-.token-dialog input {
-  padding: 0.55rem 0.65rem;
-  border: 1px solid var(--line);
-  border-radius: 0.4rem;
-  font: inherit;
-  font-size: 0.95rem;
-  text-transform: none;
-  letter-spacing: normal;
-}
-
-.dialog-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem;
-  align-items: center;
-  justify-content: flex-end;
-}
-
-.dialog-actions a {
-  margin-right: auto;
-  color: var(--accent);
-  font-weight: 600;
-  font-size: 0.88rem;
+  color: #f4fbfb;
 }
 
 .brand-mark {

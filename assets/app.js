@@ -1,14 +1,8 @@
 const DATA_URL = "data/opportunities.json";
-const TOKEN_KEY = "tempedge_github_token";
 
 const els = {
   updated: document.getElementById("updated"),
   refreshBtn: document.getElementById("refreshBtn"),
-  refreshStatus: document.getElementById("refreshStatus"),
-  actionsLink: document.getElementById("actionsLink"),
-  tokenDialog: document.getElementById("tokenDialog"),
-  tokenForm: document.getElementById("tokenForm"),
-  tokenInput: document.getElementById("tokenInput"),
   sideFilter: document.getElementById("sideFilter"),
   maxNoPrice: document.getElementById("maxNoPrice"),
   maxYesPct: document.getElementById("maxYesPct"),
@@ -28,7 +22,6 @@ const els = {
 let rows = [];
 let sortState = { key: "edge", dir: "desc" };
 let lastGeneratedAt = null;
-let refreshInFlight = false;
 
 function inferGithubRepo() {
   const host = location.hostname.toLowerCase();
@@ -41,139 +34,12 @@ function inferGithubRepo() {
   return { owner: "DrOwlDev", repo: "app14_weather_markets" };
 }
 
-const GITHUB = (() => {
+(() => {
   const { owner, repo } = inferGithubRepo();
-  return {
-    owner,
-    repo,
-    workflowFile: "refresh-data.yml",
-    ref: "main",
-    actionsUrl: `https://github.com/${owner}/${repo}/actions/workflows/refresh-data.yml`,
-  };
+  if (els.refreshBtn) {
+    els.refreshBtn.href = `https://github.com/${owner}/${repo}/actions/workflows/refresh-data.yml`;
+  }
 })();
-
-if (els.actionsLink) {
-  els.actionsLink.href = GITHUB.actionsUrl;
-}
-
-function setRefreshStatus(text) {
-  if (els.refreshStatus) els.refreshStatus.textContent = text || "";
-}
-
-function getStoredToken() {
-  try {
-    return localStorage.getItem(TOKEN_KEY) || "";
-  } catch {
-    return "";
-  }
-}
-
-function setStoredToken(token) {
-  try {
-    if (token) localStorage.setItem(TOKEN_KEY, token);
-    else localStorage.removeItem(TOKEN_KEY);
-  } catch {
-    /* ignore quota / private mode */
-  }
-}
-
-async function dispatchRefreshWorkflow(token) {
-  const url = `https://api.github.com/repos/${GITHUB.owner}/${GITHUB.repo}/actions/workflows/${GITHUB.workflowFile}/dispatches`;
-  const res = await fetch(url, {
-    method: "POST",
-    headers: {
-      Accept: "application/vnd.github+json",
-      Authorization: `Bearer ${token}`,
-      "X-GitHub-Api-Version": "2022-11-28",
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({ ref: GITHUB.ref }),
-  });
-  if (res.status === 204) return;
-  let detail = "";
-  try {
-    const body = await res.json();
-    detail = body.message || JSON.stringify(body);
-  } catch {
-    detail = res.statusText;
-  }
-  throw new Error(`GitHub API ${res.status}: ${detail}`);
-}
-
-async function waitForNewSnapshot(previousGeneratedAt, { timeoutMs = 8 * 60_000, intervalMs = 15_000 } = {}) {
-  const start = Date.now();
-  while (Date.now() - start < timeoutMs) {
-    await new Promise((r) => setTimeout(r, intervalMs));
-    try {
-      const res = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: "no-store" });
-      if (!res.ok) continue;
-      const data = await res.json();
-      if (data.generatedAt && data.generatedAt !== previousGeneratedAt) {
-        return data.generatedAt;
-      }
-      const elapsed = Math.round((Date.now() - start) / 1000);
-      setRefreshStatus(`Job running… waiting for Pages deploy (${elapsed}s)`);
-    } catch {
-      /* keep polling */
-    }
-  }
-  throw new Error("Timed out waiting for new data. Check Actions, then reload.");
-}
-
-async function runManualRefresh() {
-  if (refreshInFlight) return;
-  let token = getStoredToken();
-  if (!token) {
-    els.tokenInput.value = "";
-    els.tokenDialog.showModal();
-    return;
-  }
-
-  refreshInFlight = true;
-  els.refreshBtn.disabled = true;
-  const previous = lastGeneratedAt;
-  try {
-    setRefreshStatus("Queuing GitHub Actions refresh…");
-    await dispatchRefreshWorkflow(token);
-    setRefreshStatus("Queued. Waiting for new snapshot (usually 2–5 min)…");
-    await waitForNewSnapshot(previous);
-    setRefreshStatus("New data ready — reloading…");
-    await load();
-    setRefreshStatus("Refresh complete.");
-  } catch (err) {
-    console.error(err);
-    const msg = err?.message || String(err);
-    if (/401|403|Bad credentials|Resource not accessible/i.test(msg)) {
-      setStoredToken("");
-      setRefreshStatus("Token rejected. Enter a new token with Actions write access.");
-      els.tokenDialog.showModal();
-    } else {
-      setRefreshStatus(msg);
-    }
-  } finally {
-    refreshInFlight = false;
-    els.refreshBtn.disabled = false;
-  }
-}
-
-els.refreshBtn?.addEventListener("click", () => {
-  runManualRefresh();
-});
-
-els.tokenForm?.addEventListener("submit", (ev) => {
-  const submitter = ev.submitter;
-  const value = submitter?.value || "cancel";
-  if (value === "save") {
-    const token = (els.tokenInput.value || "").trim();
-    if (!token) {
-      ev.preventDefault();
-      return;
-    }
-    setStoredToken(token);
-    // dialog closes via method=dialog; kick off refresh after close
-    queueMicrotask(() => runManualRefresh());
-  }
-});
 
 function pct(n) {
   if (n == null || Number.isNaN(n)) return "—";
