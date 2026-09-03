@@ -1,0 +1,19 @@
+# Dependencies / tooling
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+.cursor/
+*.swp
+
+# Local scratch
+*.log
+.cache/

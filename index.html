@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TempEdge — Polymarket Weather Scanner</title>
+    <meta
+      name="description"
+      content="Scan Polymarket daily temperature markets for edges vs Open-Meteo ensemble forecasts."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/app.css" />
+  </head>
+  <body>
+    <div class="sky" aria-hidden="true"></div>
+    <header class="site-header">
+      <div class="brand">
+        <p class="brand-mark">TempEdge</p>
+        <h1>Polymarket temperature edges</h1>
+        <p class="lede">
+          Ensemble forecast probabilities vs market YES prices for daily high and
+          low temperature markets.
+        </p>
+      </div>
+      <p class="updated" id="updated">Loading snapshot…</p>
+    </header>
+
+    <section class="filters" aria-label="Filters">
+      <label>
+        Min |edge|
+        <input id="minEdge" type="number" min="0" max="1" step="0.01" value="0.05" />
+      </label>
+      <label>
+        Min liquidity
+        <input id="minLiq" type="number" min="0" step="50" value="200" />
+      </label>
+      <label>
+        City
+        <select id="cityFilter">
+          <option value="">All cities</option>
+        </select>
+      </label>
+      <label>
+        Date
+        <select id="dateFilter">
+          <option value="">All dates</option>
+        </select>
+      </label>
+      <label>
+        Kind
+        <select id="kindFilter">
+          <option value="">High &amp; low</option>
+          <option value="high">High only</option>
+          <option value="low">Low only</option>
+        </select>
+      </label>
+    </section>
+
+    <section class="results" aria-live="polite">
+      <div class="results-meta">
+        <p id="resultCount">—</p>
+        <p class="hint">
+          Edge = model probability − best ask (buy YES). Positive means the model
+          is higher than the market.
+        </p>
+      </div>
+      <div class="table-wrap">
+        <table id="oppTable">
+          <thead>
+            <tr>
+              <th>City</th>
+              <th>Date</th>
+              <th>Kind</th>
+              <th>Bucket</th>
+              <th>Model</th>
+              <th>Market</th>
+              <th>Edge</th>
+              <th>Liquidity</th>
+              <th>Mean</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="oppBody">
+            <tr>
+              <td colspan="10" class="empty">Fetching opportunities…</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <p>
+        Data refreshed by GitHub Actions. Forecasts from Open-Meteo GFS ensemble.
+        Markets from Polymarket Gamma. Not financial advice.
+      </p>
+    </footer>
+
+    <script src="assets/app.js" type="module"></script>
+  </body>
+</html>
