@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T19:41:43Z",
+  "generatedAt": "2026-09-03T21:54:00Z",
   "markets": [
     {
       "title": "Lowest temperature in London on September 3?",
@@ -18,26 +18,10 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Ankara on September 3?",
-      "slug": "lowest-temperature-in-ankara-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Munich on September 3?",
       "slug": "lowest-temperature-in-munich-on-september-3-2026",
       "eventDate": "2026-09-03",
       "city": "Munich",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Tel Aviv on September 3?",
-      "slug": "lowest-temperature-in-tel-aviv-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Tel Aviv",
       "kind": "low",
       "marketCount": 11
     },
@@ -66,42 +50,10 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Moscow on September 3?",
-      "slug": "lowest-temperature-in-moscow-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Moscow",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Istanbul on September 3?",
-      "slug": "lowest-temperature-in-istanbul-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Istanbul",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Amsterdam on September 3?",
       "slug": "lowest-temperature-in-amsterdam-on-september-3-2026",
       "eventDate": "2026-09-03",
       "city": "Amsterdam",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Helsinki on September 3?",
-      "slug": "lowest-temperature-in-helsinki-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Helsinki",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Jeddah on September 3?",
-      "slug": "lowest-temperature-in-jeddah-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Jeddah",
       "kind": "low",
       "marketCount": 11
     },
@@ -130,26 +82,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Ankara on September 3?",
-      "slug": "highest-temperature-in-ankara-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Munich on September 3?",
       "slug": "highest-temperature-in-munich-on-september-3-2026",
       "eventDate": "2026-09-03",
       "city": "Munich",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Tel Aviv on September 3?",
-      "slug": "highest-temperature-in-tel-aviv-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Tel Aviv",
       "kind": "high",
       "marketCount": 11
     },
@@ -178,42 +114,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Moscow on September 3?",
-      "slug": "highest-temperature-in-moscow-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Moscow",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Istanbul on September 3?",
-      "slug": "highest-temperature-in-istanbul-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Istanbul",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Amsterdam on September 3?",
       "slug": "highest-temperature-in-amsterdam-on-september-3-2026",
       "eventDate": "2026-09-03",
       "city": "Amsterdam",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Helsinki on September 3?",
-      "slug": "highest-temperature-in-helsinki-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Helsinki",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Jeddah on September 3?",
-      "slug": "highest-temperature-in-jeddah-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Jeddah",
       "kind": "high",
       "marketCount": 11
     },
