@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:22:44Z",
+  "generatedAt": "2026-09-03T19:22:24Z",
   "markets": [
     {
       "title": "Lowest temperature in London on September 3?",
@@ -26,14 +26,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Lucknow on September 3?",
-      "slug": "lowest-temperature-in-lucknow-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Lucknow",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Munich on September 3?",
       "slug": "lowest-temperature-in-munich-on-september-3-2026",
       "eventDate": "2026-09-03",
@@ -46,6 +38,14 @@
       "slug": "lowest-temperature-in-tel-aviv-on-september-3-2026",
       "eventDate": "2026-09-03",
       "city": "Tel Aviv",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Hong Kong on September 3?",
+      "slug": "lowest-temperature-in-hong-kong-on-september-3-2026",
+      "eventDate": "2026-09-03",
+      "city": "Hong Kong",
       "kind": "low",
       "marketCount": 11
     },
@@ -154,14 +154,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Lucknow on September 3?",
-      "slug": "highest-temperature-in-lucknow-on-september-3-2026",
-      "eventDate": "2026-09-03",
-      "city": "Lucknow",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Munich on September 3?",
       "slug": "highest-temperature-in-munich-on-september-3-2026",
       "eventDate": "2026-09-03",
@@ -174,6 +166,22 @@
       "slug": "highest-temperature-in-tel-aviv-on-september-3-2026",
       "eventDate": "2026-09-03",
       "city": "Tel Aviv",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Hong Kong on September 3?",
+      "slug": "highest-temperature-in-hong-kong-on-september-3-2026",
+      "eventDate": "2026-09-03",
+      "city": "Hong Kong",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Singapore on September 3?",
+      "slug": "highest-temperature-in-singapore-on-september-3-2026",
+      "eventDate": "2026-09-03",
+      "city": "Singapore",
       "kind": "high",
       "marketCount": 11
     },

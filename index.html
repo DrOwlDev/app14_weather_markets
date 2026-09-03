@@ -31,7 +31,7 @@
     </header>
 
     <section class="filters" aria-label="Filters">
-      <label>
+      <label class="has-tip" data-tip="Trade side to scan. Buy No finds cheap No on unlikely buckets; Buy Yes finds underpriced Yes vs the ensemble.">
         Side
         <select id="sideFilter">
           <option value="NO" selected>Buy No</option>
@@ -39,35 +39,43 @@
           <option value="">Both</option>
         </select>
       </label>
-      <label>
+      <label
+        id="maxNoPriceLabel"
+        class="has-tip"
+        data-tip="Buy No only: keep rows where the Buy No price is at or below this (e.g. 0.95 = 95¢). Cheaper No means higher payout if the bucket loses."
+      >
         Max Buy No
         <input id="maxNoPrice" type="number" min="0" max="1" step="0.01" value="0.95" />
       </label>
-      <label>
+      <label
+        id="maxYesPctLabel"
+        class="has-tip"
+        data-tip="Buy No only: keep rows where market YES probability is at or below this percent (long-shot buckets)."
+      >
         Max YES %
-        <input id="maxYesPct" type="number" min="0" max="100" step="1" value="15" title="Only for Buy No: market YES chance at or below this %" />
+        <input id="maxYesPct" type="number" min="0" max="100" step="1" value="15" />
       </label>
-      <label>
+      <label class="has-tip" data-tip="Minimum model edge in dollars (0.02 = 2¢). Edge is model probability minus the buy price for the selected side.">
         Min edge
         <input id="minEdge" type="number" min="0" max="1" step="0.01" value="0.02" />
       </label>
-      <label>
+      <label class="has-tip" data-tip="Minimum Polymarket liquidity for the bucket market. Higher values prefer deeper books.">
         Min liquidity
         <input id="minLiq" type="number" min="0" step="50" value="100" />
       </label>
-      <label>
+      <label class="has-tip" data-tip="Limit results to one city (airport resolution station).">
         City
         <select id="cityFilter">
           <option value="">All cities</option>
         </select>
       </label>
-      <label>
+      <label class="has-tip" data-tip="Limit results to one local calendar date for the market.">
         Date
         <select id="dateFilter">
           <option value="">All dates</option>
         </select>
       </label>
-      <label>
+      <label class="has-tip" data-tip="Highest temperature markets vs lowest temperature markets.">
         Kind
         <select id="kindFilter">
           <option value="">High &amp; low</option>
@@ -97,16 +105,18 @@
               <th>Model YES</th>
               <th>Mkt YES</th>
               <th>Buy price</th>
-              <th>Edge</th>
+              <th class="sortable sorted desc" data-sort="edge" title="Sort by edge">Edge</th>
+              <th class="sortable" data-sort="closesMs" title="Sort by time until market endDate">Closes in</th>
               <th>To win / $1</th>
-              <th>Liquidity</th>
-              <th>Mean</th>
+              <th class="sortable" data-sort="liquidity" title="Sort by liquidity">Liquidity</th>
+              <th title="Ensemble mean daily minimum (°C/°F)">Fcst min</th>
+              <th title="Ensemble mean daily maximum (°C/°F)">Fcst max</th>
               <th></th>
             </tr>
           </thead>
           <tbody id="oppBody">
             <tr>
-              <td colspan="13" class="empty">Fetching opportunities…</td>
+              <td colspan="15" class="empty">Fetching opportunities…</td>
             </tr>
           </tbody>
         </table>

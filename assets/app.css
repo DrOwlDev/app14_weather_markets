@@ -126,6 +126,51 @@ body {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--muted);
+  position: relative;
+}
+
+.filters label.has-tip {
+  cursor: help;
+  border-bottom: none;
+}
+
+.filters label.has-tip::after {
+  content: attr(data-tip);
+  position: absolute;
+  left: 0;
+  bottom: calc(100% + 0.45rem);
+  z-index: 20;
+  width: max(14rem, 100%);
+  max-width: 18rem;
+  padding: 0.55rem 0.65rem;
+  border-radius: 0.4rem;
+  background: #14233a;
+  color: #f4f8fc;
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  text-transform: none;
+  line-height: 1.35;
+  box-shadow: 0 10px 28px rgba(20, 35, 58, 0.28);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(4px);
+  transition: opacity 0.15s ease, transform 0.15s ease;
+}
+
+.filters label.has-tip:hover::after,
+.filters label.has-tip:focus-within::after {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.filters label.is-disabled {
+  opacity: 0.42;
+}
+
+.filters label.is-disabled input,
+.filters label.is-disabled select {
+  cursor: not-allowed;
 }
 
 .filters input,
@@ -141,6 +186,12 @@ body {
   font-weight: 500;
   text-transform: none;
   letter-spacing: normal;
+}
+
+.filters input:disabled,
+.filters select:disabled {
+  background: rgba(200, 210, 220, 0.55);
+  color: #6a7a8c;
 }
 
 .results {
@@ -203,6 +254,37 @@ th {
   text-transform: uppercase;
   color: var(--muted);
   z-index: 1;
+}
+
+th.sortable {
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+th.sortable:hover {
+  color: var(--ink);
+}
+
+th.sortable::after {
+  content: "";
+  display: inline-block;
+  margin-left: 0.3rem;
+  border: 4px solid transparent;
+  vertical-align: middle;
+  opacity: 0.35;
+}
+
+th.sortable.sorted.asc::after {
+  border-bottom-color: var(--ink);
+  opacity: 1;
+  transform: translateY(-2px);
+}
+
+th.sortable.sorted.desc::after {
+  border-top-color: var(--ink);
+  opacity: 1;
+  transform: translateY(2px);
 }
 
 tbody tr {

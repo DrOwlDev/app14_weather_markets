@@ -288,10 +288,25 @@ def local_dates_for_city(tz_name: str) -> set[str]:
     return {(today + timedelta(days=i)).isoformat() for i in range(DAY_HORIZON + 1)}
 
 
+def ensemble_mean_native(
+    members_by_date: dict[str, list[float]], event_date: str, unit: str
+) -> float | None:
+    members_c = members_by_date.get(event_date) or []
+    if not members_c:
+        return None
+    members_native = [c_to_unit(v, unit) for v in members_c]
+    if not members_native:
+        return None
+    return sum(members_native) / len(members_native)
+
+
 def score_event(
     event: dict[str, Any],
     city: dict[str, Any],
     members_by_date: dict[str, list[float]],
+    *,
+    forecast_min: float | None,
+    forecast_max: float | None,
 ) -> list[dict[str, Any]]:
     event_date = event.get("eventDate") or ""
     if event_date not in members_by_date:
@@ -306,6 +321,7 @@ def score_event(
     kind = market_kind(title) or "high"
     slug = event.get("slug") or ""
     mean_native = sum(members_native) / len(members_native)
+    end_date = event.get("endDate") or None
     rows: list[dict[str, Any]] = []
 
     for market in event.get("markets") or []:
@@ -323,6 +339,30 @@ def score_event(
         bid = best_bid(market)
         no_ask = buy_no_ask(market)
         liq = liquidity(market)
+        market_end = market.get("endDate") or end_date
+
+        base = {
+            "city": city["name"],
+            "date": event_date,
+            "kind": kind,
+            "eventSlug": slug,
+            "bucket": label,
+            "yesPrice": round(y_price, 4) if y_price is not None else None,
+            "noPrice": round(n_mid, 4) if n_mid is not None else None,
+            "bestAsk": round(ask, 4) if ask is not None and 0.0 < ask < 0.99 else None,
+            "bestBid": round(bid, 4) if bid is not None else None,
+            "modelProb": round(model_prob, 4),
+            "modelNoProb": round(model_no_prob, 4),
+            "liquidity": round(liq, 2),
+            "forecastMean": round(mean_native, 1),
+            "forecastMin": round(forecast_min, 1) if forecast_min is not None else None,
+            "forecastMax": round(forecast_max, 1) if forecast_max is not None else None,
+            "unit": unit,
+            "ensembleSize": len(members_native),
+            "icao": city["icao"],
+            "endDate": market_end,
+            "url": f"https://polymarket.com/event/{slug}",
+        }
 
         # --- Buy YES opportunity ---
         if ask is not None and 0.0 < ask < 0.99:
@@ -339,26 +379,11 @@ def score_event(
             yes_edge = model_prob - yes_market_price
             rows.append(
                 {
+                    **base,
                     "side": "YES",
-                    "city": city["name"],
-                    "date": event_date,
-                    "kind": kind,
-                    "eventSlug": slug,
-                    "bucket": label,
-                    "yesPrice": round(y_price, 4) if y_price is not None else None,
-                    "noPrice": round(n_mid, 4) if n_mid is not None else None,
                     "bestAsk": round(yes_ask_out, 4) if yes_ask_out is not None else None,
-                    "bestBid": round(bid, 4) if bid is not None else None,
                     "buyPrice": round(yes_market_price, 4),
-                    "modelProb": round(model_prob, 4),
-                    "modelNoProb": round(model_no_prob, 4),
                     "edge": round(yes_edge, 4),
-                    "liquidity": round(liq, 2),
-                    "forecastMean": round(mean_native, 2),
-                    "unit": unit,
-                    "ensembleSize": len(members_native),
-                    "icao": city["icao"],
-                    "url": f"https://polymarket.com/event/{slug}",
                 }
             )
 
@@ -367,26 +392,10 @@ def score_event(
             no_edge = model_no_prob - no_ask
             rows.append(
                 {
+                    **base,
                     "side": "NO",
-                    "city": city["name"],
-                    "date": event_date,
-                    "kind": kind,
-                    "eventSlug": slug,
-                    "bucket": label,
-                    "yesPrice": round(y_price, 4) if y_price is not None else None,
-                    "noPrice": round(n_mid, 4) if n_mid is not None else None,
-                    "bestAsk": round(ask, 4) if ask is not None and 0.0 < ask < 0.99 else None,
-                    "bestBid": round(bid, 4) if bid is not None else None,
                     "buyPrice": round(no_ask, 4),
-                    "modelProb": round(model_prob, 4),
-                    "modelNoProb": round(model_no_prob, 4),
                     "edge": round(no_edge, 4),
-                    "liquidity": round(liq, 2),
-                    "forecastMean": round(mean_native, 2),
-                    "unit": unit,
-                    "ensembleSize": len(members_native),
-                    "icao": city["icao"],
-                    "url": f"https://polymarket.com/event/{slug}",
                 }
             )
     return rows
@@ -433,7 +442,19 @@ def build_snapshot(cities: list[dict[str, Any]], events: list[dict[str, Any]]) -
                 forecast_cache[icao] = {"high": {}, "low": {}}
 
         members = forecast_cache[icao].get(kind) or {}
-        rows = score_event(event, city, members)
+        forecast_min = ensemble_mean_native(
+            forecast_cache[icao].get("low") or {}, event_date, city["unit"]
+        )
+        forecast_max = ensemble_mean_native(
+            forecast_cache[icao].get("high") or {}, event_date, city["unit"]
+        )
+        rows = score_event(
+            event,
+            city,
+            members,
+            forecast_min=forecast_min,
+            forecast_max=forecast_max,
+        )
         opportunities.extend(rows)
         markets_snapshot.append(
             {
