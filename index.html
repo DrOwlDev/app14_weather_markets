@@ -27,8 +27,56 @@
           Polymarket prices — including cheap No on low-probability buckets.
         </p>
       </div>
-      <p class="updated" id="updated">Loading snapshot…</p>
+      <div class="header-actions">
+        <p class="updated" id="updated">Loading snapshot…</p>
+        <div class="refresh-row">
+          <button type="button" id="refreshBtn" class="refresh-btn">
+            Refresh data
+          </button>
+          <a
+            id="actionsLink"
+            class="actions-link"
+            href="https://github.com/DrOwlDev/app14_weather_markets/actions/workflows/refresh-data.yml"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Actions</a
+          >
+        </div>
+        <p class="refresh-status" id="refreshStatus" aria-live="polite"></p>
+      </div>
     </header>
+
+    <dialog id="tokenDialog" class="token-dialog">
+      <form method="dialog" id="tokenForm">
+        <h2>GitHub token for Refresh</h2>
+        <p>
+          A token with <code>actions:write</code> (fine-grained) or
+          <code>workflow</code> (classic) is stored only in this browser’s
+          localStorage so the site can queue
+          <code>workflow_dispatch</code>. Never commit a token to the repo.
+        </p>
+        <label>
+          Personal access token
+          <input
+            id="tokenInput"
+            type="password"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="ghp_… or github_pat_…"
+          />
+        </label>
+        <div class="dialog-actions">
+          <a
+            href="https://github.com/settings/tokens?type=beta"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Create token</a
+          >
+          <button type="submit" value="save" class="refresh-btn">Save &amp; refresh</button>
+          <button type="submit" value="cancel" class="ghost-btn">Cancel</button>
+        </div>
+      </form>
+    </dialog>
 
     <section class="filters" aria-label="Filters">
       <label class="has-tip" data-tip="Trade side to scan. Buy No finds cheap No on unlikely buckets; Buy Yes finds underpriced Yes vs the ensemble.">
