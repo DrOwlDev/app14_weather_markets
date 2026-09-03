@@ -6,7 +6,7 @@
     <title>TempEdge — Polymarket Weather Scanner</title>
     <meta
       name="description"
-      content="Scan Polymarket daily temperature markets for edges vs Open-Meteo ensemble forecasts."
+      content="Scan Polymarket daily temperature markets for Buy Yes and Buy No edges vs Open-Meteo ensembles."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -23,8 +23,8 @@
         <p class="brand-mark">TempEdge</p>
         <h1>Polymarket temperature edges</h1>
         <p class="lede">
-          Ensemble forecast probabilities vs market YES prices for daily high and
-          low temperature markets.
+          Find Buy No and Buy Yes opportunities where ensemble odds disagree with
+          Polymarket prices — including cheap No on low-probability buckets.
         </p>
       </div>
       <p class="updated" id="updated">Loading snapshot…</p>
@@ -32,12 +32,28 @@
 
     <section class="filters" aria-label="Filters">
       <label>
-        Min |edge|
-        <input id="minEdge" type="number" min="0" max="1" step="0.01" value="0.05" />
+        Side
+        <select id="sideFilter">
+          <option value="NO" selected>Buy No</option>
+          <option value="YES">Buy Yes</option>
+          <option value="">Both</option>
+        </select>
+      </label>
+      <label>
+        Max Buy No
+        <input id="maxNoPrice" type="number" min="0" max="1" step="0.01" value="0.95" />
+      </label>
+      <label>
+        Max YES %
+        <input id="maxYesPct" type="number" min="0" max="100" step="1" value="15" title="Only for Buy No: market YES chance at or below this %" />
+      </label>
+      <label>
+        Min edge
+        <input id="minEdge" type="number" min="0" max="1" step="0.01" value="0.02" />
       </label>
       <label>
         Min liquidity
-        <input id="minLiq" type="number" min="0" step="50" value="200" />
+        <input id="minLiq" type="number" min="0" step="50" value="100" />
       </label>
       <label>
         City
@@ -64,22 +80,25 @@
     <section class="results" aria-live="polite">
       <div class="results-meta">
         <p id="resultCount">—</p>
-        <p class="hint">
-          Edge = model probability − best ask (buy YES). Positive means the model
-          is higher than the market.
+        <p class="hint" id="hintText">
+          Buy No edge = model P(not bucket) − Buy No price (≈ 1 − YES bid). Screenshot
+          pattern: low YES % with No at 95¢ or cheaper.
         </p>
       </div>
       <div class="table-wrap">
         <table id="oppTable">
           <thead>
             <tr>
+              <th>Side</th>
               <th>City</th>
               <th>Date</th>
               <th>Kind</th>
               <th>Bucket</th>
-              <th>Model</th>
-              <th>Market</th>
+              <th>Model YES</th>
+              <th>Mkt YES</th>
+              <th>Buy price</th>
               <th>Edge</th>
+              <th>To win / $1</th>
               <th>Liquidity</th>
               <th>Mean</th>
               <th></th>
@@ -87,7 +106,7 @@
           </thead>
           <tbody id="oppBody">
             <tr>
-              <td colspan="10" class="empty">Fetching opportunities…</td>
+              <td colspan="13" class="empty">Fetching opportunities…</td>
             </tr>
           </tbody>
         </table>

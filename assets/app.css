@@ -251,6 +251,29 @@ tbody tr.cold {
   color: var(--cool);
 }
 
+.side-pill {
+  display: inline-block;
+  padding: 0.12rem 0.5rem;
+  border-radius: 0.3rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.side-yes {
+  background: rgba(10, 122, 75, 0.14);
+  color: var(--edge-pos);
+}
+
+.side-no {
+  background: rgba(163, 59, 43, 0.14);
+  color: var(--edge-neg);
+}
+
+tbody tr.hot-no {
+  background: rgba(163, 59, 43, 0.09);
+}
+
 a.market-link {
   color: var(--accent);
   font-weight: 600;

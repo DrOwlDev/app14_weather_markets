@@ -100,6 +100,16 @@ def yes_price(market: dict[str, Any]) -> float | None:
     return None
 
 
+def no_price_mid(market: dict[str, Any]) -> float | None:
+    prices = parse_jsonish(market.get("outcomePrices"))
+    if isinstance(prices, list) and len(prices) > 1:
+        try:
+            return float(prices[1])
+        except (TypeError, ValueError):
+            return None
+    return None
+
+
 def best_ask(market: dict[str, Any]) -> float | None:
     ask = market.get("bestAsk")
     if ask is None:
@@ -108,6 +118,27 @@ def best_ask(market: dict[str, Any]) -> float | None:
         return float(ask)
     except (TypeError, ValueError):
         return None
+
+
+def best_bid(market: dict[str, Any]) -> float | None:
+    bid = market.get("bestBid")
+    if bid is None:
+        return None
+    try:
+        return float(bid)
+    except (TypeError, ValueError):
+        return None
+
+
+def buy_no_ask(market: dict[str, Any]) -> float | None:
+    """Executable Buy No ≈ 1 − YES best bid (matches Polymarket UI)."""
+    bid = best_bid(market)
+    if bid is not None and 0.0 < bid < 1.0:
+        return 1.0 - bid
+    mid = no_price_mid(market)
+    if mid is not None and 0.0 < mid < 1.0:
+        return mid
+    return None
 
 
 def liquidity(market: dict[str, Any]) -> float:
@@ -285,42 +316,79 @@ def score_event(
         lo, hi = bounds
         hits = sum(1 for t in members_native if member_in_bucket(t, lo, hi))
         model_prob = hits / len(members_native)
+        model_no_prob = 1.0 - model_prob
         y_price = yes_price(market)
+        n_mid = no_price_mid(market)
         ask = best_ask(market)
-        # Prefer a real ask when it is tradeable; otherwise fall back to mid.
-        if ask is not None and 0.0 < ask < 0.99:
-            market_price = ask
-        elif y_price is not None:
-            market_price = y_price
-        else:
-            continue
+        bid = best_bid(market)
+        no_ask = buy_no_ask(market)
         liq = liquidity(market)
-        # Drop empty / stub books (ask pegged at 0 or 1 with no mid)
-        if y_price is None and ask is not None and ask in (0.0, 1.0):
-            continue
-        if liq <= MIN_LIQUIDITY_SNAPSHOT and market_price in (0.0, 1.0):
-            continue
-        edge = model_prob - market_price
-        ask_out = ask if ask is not None and 0.0 < ask < 0.99 else None
-        rows.append(
-            {
-                "city": city["name"],
-                "date": event_date,
-                "kind": kind,
-                "eventSlug": slug,
-                "bucket": label,
-                "yesPrice": round(y_price, 4) if y_price is not None else None,
-                "bestAsk": round(ask_out, 4) if ask_out is not None else None,
-                "modelProb": round(model_prob, 4),
-                "edge": round(edge, 4),
-                "liquidity": round(liq, 2),
-                "forecastMean": round(mean_native, 2),
-                "unit": unit,
-                "ensembleSize": len(members_native),
-                "icao": city["icao"],
-                "url": f"https://polymarket.com/event/{slug}",
-            }
-        )
+
+        # --- Buy YES opportunity ---
+        if ask is not None and 0.0 < ask < 0.99:
+            yes_market_price = ask
+        elif y_price is not None:
+            yes_market_price = y_price
+        else:
+            yes_market_price = None
+
+        if yes_market_price is not None and not (
+            liq <= MIN_LIQUIDITY_SNAPSHOT and yes_market_price in (0.0, 1.0)
+        ):
+            yes_ask_out = ask if ask is not None and 0.0 < ask < 0.99 else None
+            yes_edge = model_prob - yes_market_price
+            rows.append(
+                {
+                    "side": "YES",
+                    "city": city["name"],
+                    "date": event_date,
+                    "kind": kind,
+                    "eventSlug": slug,
+                    "bucket": label,
+                    "yesPrice": round(y_price, 4) if y_price is not None else None,
+                    "noPrice": round(n_mid, 4) if n_mid is not None else None,
+                    "bestAsk": round(yes_ask_out, 4) if yes_ask_out is not None else None,
+                    "bestBid": round(bid, 4) if bid is not None else None,
+                    "buyPrice": round(yes_market_price, 4),
+                    "modelProb": round(model_prob, 4),
+                    "modelNoProb": round(model_no_prob, 4),
+                    "edge": round(yes_edge, 4),
+                    "liquidity": round(liq, 2),
+                    "forecastMean": round(mean_native, 2),
+                    "unit": unit,
+                    "ensembleSize": len(members_native),
+                    "icao": city["icao"],
+                    "url": f"https://polymarket.com/event/{slug}",
+                }
+            )
+
+        # --- Buy NO opportunity (screenshot pattern: low YES %, NO ~95¢ or cheaper) ---
+        if no_ask is not None and 0.0 < no_ask < 1.0:
+            no_edge = model_no_prob - no_ask
+            rows.append(
+                {
+                    "side": "NO",
+                    "city": city["name"],
+                    "date": event_date,
+                    "kind": kind,
+                    "eventSlug": slug,
+                    "bucket": label,
+                    "yesPrice": round(y_price, 4) if y_price is not None else None,
+                    "noPrice": round(n_mid, 4) if n_mid is not None else None,
+                    "bestAsk": round(ask, 4) if ask is not None and 0.0 < ask < 0.99 else None,
+                    "bestBid": round(bid, 4) if bid is not None else None,
+                    "buyPrice": round(no_ask, 4),
+                    "modelProb": round(model_prob, 4),
+                    "modelNoProb": round(model_no_prob, 4),
+                    "edge": round(no_edge, 4),
+                    "liquidity": round(liq, 2),
+                    "forecastMean": round(mean_native, 2),
+                    "unit": unit,
+                    "ensembleSize": len(members_native),
+                    "icao": city["icao"],
+                    "url": f"https://polymarket.com/event/{slug}",
+                }
+            )
     return rows
 
 
