@@ -20,11 +20,12 @@ permissions:
 
 concurrency:
   group: pages-deploy
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   refresh-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -38,9 +39,13 @@ jobs:
           python-version: "3.12"
 
       - name: Refresh market data
-        run: python scripts/refresh.py
+        id: refresh
+        continue-on-error: true
+        timeout-minutes: 8
+        run: python -u scripts/refresh.py
 
       - name: Commit data snapshot
+        if: steps.refresh.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -48,7 +53,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No data changes to commit"
           else
-            git commit -m "chore: refresh market and forecast data"
+            git commit -m "chore: refresh market and forecast data [skip ci]"
             git push
           fi
 

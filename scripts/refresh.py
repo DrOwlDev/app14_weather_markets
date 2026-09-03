@@ -27,10 +27,12 @@ USER_AGENT = "app14-weather-markets/1.0 (+https://github.com; polymarket scanner
 
 DAY_HORIZON = 2  # today + next N local days
 MIN_LIQUIDITY_SNAPSHOT = 0.0
-REQUEST_PAUSE_S = 0.15
+REQUEST_PAUSE_S = 0.05
+HTTP_TIMEOUT_S = 25
+HTTP_RETRIES = 2
 
 
-def http_get_json(url: str, *, retries: int = 3) -> Any:
+def http_get_json(url: str, *, retries: int = HTTP_RETRIES) -> Any:
     last_err: Exception | None = None
     for attempt in range(retries):
         req = urllib.request.Request(
@@ -41,11 +43,14 @@ def http_get_json(url: str, *, retries: int = 3) -> Any:
             },
         )
         try:
-            with urllib.request.urlopen(req, timeout=90) as resp:
+            with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT_S) as resp:
                 return json.load(resp)
-        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as err:
+        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, TimeoutError) as err:
             last_err = err
-            time.sleep(1.5 * (attempt + 1))
+            time.sleep(0.8 * (attempt + 1))
+        except Exception as err:  # noqa: BLE001 — keep CI moving on unexpected socket errors
+            last_err = err
+            time.sleep(0.8 * (attempt + 1))
     raise RuntimeError(f"GET failed after {retries} tries: {url}") from last_err
 
 
@@ -195,31 +200,13 @@ def fetch_gamma_events() -> list[dict[str, Any]]:
     return events
 
 
-def fetch_ensemble(
-    lat: float, lon: float, tz: str, kind: str
-) -> dict[str, list[float]]:
-    """Return {date_iso: [member_temps_C, ...]} for high or low."""
-    daily_var = "temperature_2m_max" if kind == "high" else "temperature_2m_min"
-    qs = urllib.parse.urlencode(
-        {
-            "latitude": lat,
-            "longitude": lon,
-            "daily": daily_var,
-            "timezone": tz,
-            "forecast_days": DAY_HORIZON + 2,
-            "models": "gfs_seamless",
-        }
-    )
-    payload = http_get_json(f"{ENSEMBLE_URL}?{qs}")
-    daily = payload.get("daily") or {}
+def _members_from_daily(daily: dict[str, Any], daily_var: str) -> dict[str, list[float]]:
     times = daily.get("time") or []
     member_keys = [
         k
         for k in daily.keys()
         if k == daily_var or k.startswith(f"{daily_var}_member")
     ]
-    # Prefer ensemble members only (exclude control mean duplicate if desired).
-    # Include control + members for fuller distribution.
     out: dict[str, list[float]] = {}
     for i, day in enumerate(times):
         vals: list[float] = []
@@ -237,6 +224,28 @@ def fetch_ensemble(
         if vals:
             out[day] = vals
     return out
+
+
+def fetch_ensemble_both(
+    lat: float, lon: float, tz: str
+) -> dict[str, dict[str, list[float]]]:
+    """Fetch high + low ensembles in one request. Returns {high|low: {date: members}}."""
+    qs = urllib.parse.urlencode(
+        {
+            "latitude": lat,
+            "longitude": lon,
+            "daily": "temperature_2m_max,temperature_2m_min",
+            "timezone": tz,
+            "forecast_days": DAY_HORIZON + 2,
+            "models": "gfs_seamless",
+        }
+    )
+    payload = http_get_json(f"{ENSEMBLE_URL}?{qs}")
+    daily = payload.get("daily") or {}
+    return {
+        "high": _members_from_daily(daily, "temperature_2m_max"),
+        "low": _members_from_daily(daily, "temperature_2m_min"),
+    }
 
 
 def local_dates_for_city(tz_name: str) -> set[str]:
@@ -319,8 +328,8 @@ def build_snapshot(cities: list[dict[str, Any]], events: list[dict[str, Any]]) -
     by_city = city_index(cities)
     allowed_dates = {c["name"]: local_dates_for_city(c["timezone"]) for c in cities}
 
-    # Group events needing forecasts: (icao, kind) -> members
-    forecast_cache: dict[tuple[str, str], dict[str, list[float]]] = {}
+    # Cache by ICAO: {"high": {date: members}, "low": {...}}
+    forecast_cache: dict[str, dict[str, dict[str, list[float]]]] = {}
     opportunities: list[dict[str, Any]] = []
     markets_snapshot: list[dict[str, Any]] = []
     skipped_unknown_city = 0
@@ -343,18 +352,20 @@ def build_snapshot(cities: list[dict[str, Any]], events: list[dict[str, Any]]) -
             skipped_date += 1
             continue
 
-        cache_key = (city["icao"], kind)
-        if cache_key not in forecast_cache:
+        icao = city["icao"]
+        if icao not in forecast_cache:
             try:
-                forecast_cache[cache_key] = fetch_ensemble(
-                    city["lat"], city["lon"], city["timezone"], kind
+                forecast_cache[icao] = fetch_ensemble_both(
+                    city["lat"], city["lon"], city["timezone"]
                 )
+                print(f"ensemble ok {city['name']} ({icao})")
                 time.sleep(REQUEST_PAUSE_S)
             except Exception as err:
-                print(f"ensemble failed for {city['name']} {kind}: {err}")
-                forecast_cache[cache_key] = {}
+                print(f"ensemble failed for {city['name']}: {err}")
+                forecast_cache[icao] = {"high": {}, "low": {}}
 
-        rows = score_event(event, city, forecast_cache[cache_key])
+        members = forecast_cache[icao].get(kind) or {}
+        rows = score_event(event, city, members)
         opportunities.extend(rows)
         markets_snapshot.append(
             {
