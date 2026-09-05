@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T15:35:12Z",
+  "generatedAt": "2026-09-05T17:37:16Z",
   "markets": [
     {
       "title": "Lowest temperature in London on September 5?",
@@ -50,30 +50,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Hong Kong on September 5?",
-      "slug": "lowest-temperature-in-hong-kong-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Hong Kong",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Shanghai on September 5?",
-      "slug": "lowest-temperature-in-shanghai-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Shanghai",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Singapore on September 5?",
-      "slug": "lowest-temperature-in-singapore-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Singapore",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Milan on September 5?",
       "slug": "lowest-temperature-in-milan-on-september-5-2026",
       "eventDate": "2026-09-05",
@@ -94,54 +70,6 @@
       "slug": "lowest-temperature-in-warsaw-on-september-5-2026",
       "eventDate": "2026-09-05",
       "city": "Warsaw",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Taipei on September 5?",
-      "slug": "lowest-temperature-in-taipei-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Taipei",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Chongqing on September 5?",
-      "slug": "lowest-temperature-in-chongqing-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Chongqing",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Beijing on September 5?",
-      "slug": "lowest-temperature-in-beijing-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Beijing",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Wuhan on September 5?",
-      "slug": "lowest-temperature-in-wuhan-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Wuhan",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Chengdu on September 5?",
-      "slug": "lowest-temperature-in-chengdu-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Chengdu",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Shenzhen on September 5?",
-      "slug": "lowest-temperature-in-shenzhen-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Shenzhen",
       "kind": "low",
       "marketCount": 11
     },
@@ -178,14 +106,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Kuala Lumpur on September 5?",
-      "slug": "lowest-temperature-in-kuala-lumpur-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Kuala Lumpur",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Jeddah on September 5?",
       "slug": "lowest-temperature-in-jeddah-on-september-5-2026",
       "eventDate": "2026-09-05",
@@ -202,34 +122,10 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Guangzhou on September 5?",
-      "slug": "lowest-temperature-in-guangzhou-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Guangzhou",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Qingdao on September 5?",
-      "slug": "lowest-temperature-in-qingdao-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Qingdao",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Karachi on September 5?",
       "slug": "lowest-temperature-in-karachi-on-september-5-2026",
       "eventDate": "2026-09-05",
       "city": "Karachi",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Manila on September 5?",
-      "slug": "lowest-temperature-in-manila-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Manila",
       "kind": "low",
       "marketCount": 11
     },
@@ -282,30 +178,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Hong Kong on September 5?",
-      "slug": "highest-temperature-in-hong-kong-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Hong Kong",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Shanghai on September 5?",
-      "slug": "highest-temperature-in-shanghai-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Shanghai",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Singapore on September 5?",
-      "slug": "highest-temperature-in-singapore-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Singapore",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Milan on September 5?",
       "slug": "highest-temperature-in-milan-on-september-5-2026",
       "eventDate": "2026-09-05",
@@ -326,54 +198,6 @@
       "slug": "highest-temperature-in-warsaw-on-september-5-2026",
       "eventDate": "2026-09-05",
       "city": "Warsaw",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Taipei on September 5?",
-      "slug": "highest-temperature-in-taipei-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Taipei",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chongqing on September 5?",
-      "slug": "highest-temperature-in-chongqing-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Chongqing",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Beijing on September 5?",
-      "slug": "highest-temperature-in-beijing-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Beijing",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Wuhan on September 5?",
-      "slug": "highest-temperature-in-wuhan-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Wuhan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chengdu on September 5?",
-      "slug": "highest-temperature-in-chengdu-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Chengdu",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Shenzhen on September 5?",
-      "slug": "highest-temperature-in-shenzhen-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Shenzhen",
       "kind": "high",
       "marketCount": 11
     },
@@ -410,14 +234,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Kuala Lumpur on September 5?",
-      "slug": "highest-temperature-in-kuala-lumpur-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Kuala Lumpur",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Jeddah on September 5?",
       "slug": "highest-temperature-in-jeddah-on-september-5-2026",
       "eventDate": "2026-09-05",
@@ -434,34 +250,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Guangzhou on September 5?",
-      "slug": "highest-temperature-in-guangzhou-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Guangzhou",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Qingdao on September 5?",
-      "slug": "highest-temperature-in-qingdao-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Qingdao",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Karachi on September 5?",
       "slug": "highest-temperature-in-karachi-on-september-5-2026",
       "eventDate": "2026-09-05",
       "city": "Karachi",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Manila on September 5?",
-      "slug": "highest-temperature-in-manila-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Manila",
       "kind": "high",
       "marketCount": 11
     },
@@ -719,22 +511,6 @@
       "eventDate": "2026-09-05",
       "city": "Panama City",
       "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Jinan on September 5?",
-      "slug": "lowest-temperature-in-jinan-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Jinan",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Zhengzhou on September 5?",
-      "slug": "lowest-temperature-in-zhengzhou-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Zhengzhou",
-      "kind": "low",
       "marketCount": 11
     },
     {
@@ -999,22 +775,6 @@
       "eventDate": "2026-09-06",
       "city": "Manila",
       "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Jinan on September 5?",
-      "slug": "highest-temperature-in-jinan-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Jinan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Zhengzhou on September 5?",
-      "slug": "highest-temperature-in-zhengzhou-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Zhengzhou",
-      "kind": "high",
       "marketCount": 11
     },
     {
