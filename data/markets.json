@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:37:16Z",
+  "generatedAt": "2026-09-05T19:32:04Z",
   "markets": [
     {
       "title": "Lowest temperature in London on September 5?",
@@ -22,14 +22,6 @@
       "slug": "lowest-temperature-in-ankara-on-september-5-2026",
       "eventDate": "2026-09-05",
       "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on September 5?",
-      "slug": "lowest-temperature-in-lucknow-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Lucknow",
       "kind": "low",
       "marketCount": 11
     },
@@ -122,14 +114,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Karachi on September 5?",
-      "slug": "lowest-temperature-in-karachi-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Karachi",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in London on September 5?",
       "slug": "highest-temperature-in-london-on-september-5-2026",
       "eventDate": "2026-09-05",
@@ -150,14 +134,6 @@
       "slug": "highest-temperature-in-ankara-on-september-5-2026",
       "eventDate": "2026-09-05",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on September 5?",
-      "slug": "highest-temperature-in-lucknow-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
@@ -246,14 +222,6 @@
       "slug": "highest-temperature-in-cape-town-on-september-5-2026",
       "eventDate": "2026-09-05",
       "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Karachi on September 5?",
-      "slug": "highest-temperature-in-karachi-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Karachi",
       "kind": "high",
       "marketCount": 11
     },
