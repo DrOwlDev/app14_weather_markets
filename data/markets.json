@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:02:25Z",
+  "generatedAt": "2026-09-05T12:39:43Z",
   "markets": [
     {
       "title": "Lowest temperature in London on September 5?",
@@ -30,14 +30,6 @@
       "slug": "lowest-temperature-in-ankara-on-september-5-2026",
       "eventDate": "2026-09-05",
       "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Wellington on September 5?",
-      "slug": "lowest-temperature-in-wellington-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Wellington",
       "kind": "low",
       "marketCount": 11
     },
@@ -294,14 +286,6 @@
       "slug": "highest-temperature-in-ankara-on-september-5-2026",
       "eventDate": "2026-09-05",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Wellington on September 5?",
-      "slug": "highest-temperature-in-wellington-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Wellington",
       "kind": "high",
       "marketCount": 11
     },
@@ -2287,6 +2271,94 @@
       "eventDate": "2026-09-07",
       "city": "Denver",
       "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Seattle on September 7?",
+      "slug": "lowest-temperature-in-seattle-on-september-7-2026",
+      "eventDate": "2026-09-07",
+      "city": "Seattle",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Los Angeles on September 7?",
+      "slug": "lowest-temperature-in-los-angeles-on-september-7-2026",
+      "eventDate": "2026-09-07",
+      "city": "Los Angeles",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in San Francisco on September 7?",
+      "slug": "lowest-temperature-in-san-francisco-on-september-7-2026",
+      "eventDate": "2026-09-07",
+      "city": "San Francisco",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Seattle on September 7?",
+      "slug": "highest-temperature-in-seattle-on-september-7-2026",
+      "eventDate": "2026-09-07",
+      "city": "Seattle",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Los Angeles on September 7?",
+      "slug": "highest-temperature-in-los-angeles-on-september-7-2026",
+      "eventDate": "2026-09-07",
+      "city": "Los Angeles",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in San Francisco on September 7?",
+      "slug": "highest-temperature-in-san-francisco-on-september-7-2026",
+      "eventDate": "2026-09-07",
+      "city": "San Francisco",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Sao Paulo on September 7?",
+      "slug": "lowest-temperature-in-sao-paulo-on-september-7-2026",
+      "eventDate": "2026-09-07",
+      "city": "Sao Paulo",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Buenos Aires on September 7?",
+      "slug": "lowest-temperature-in-buenos-aires-on-september-7-2026",
+      "eventDate": "2026-09-07",
+      "city": "Buenos Aires",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Toronto on September 7?",
+      "slug": "lowest-temperature-in-toronto-on-september-7-2026",
+      "eventDate": "2026-09-07",
+      "city": "Toronto",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Mexico City on September 7?",
+      "slug": "lowest-temperature-in-mexico-city-on-september-7-2026",
+      "eventDate": "2026-09-07",
+      "city": "Mexico City",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Panama City on September 7?",
+      "slug": "lowest-temperature-in-panama-city-on-september-7-2026",
+      "eventDate": "2026-09-07",
+      "city": "Panama City",
+      "kind": "low",
       "marketCount": 11
     }
   ]
