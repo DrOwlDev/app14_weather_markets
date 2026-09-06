@@ -1,86 +1,6 @@
 {
-  "generatedAt": "2026-09-06T06:00:51Z",
+  "generatedAt": "2026-09-06T10:50:56Z",
   "markets": [
-    {
-      "title": "Highest temperature in Denver on September 5?",
-      "slug": "highest-temperature-in-denver-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Denver",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Denver on September 5?",
-      "slug": "lowest-temperature-in-denver-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Denver",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Seattle on September 5?",
-      "slug": "lowest-temperature-in-seattle-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Seattle",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Los Angeles on September 5?",
-      "slug": "lowest-temperature-in-los-angeles-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Los Angeles",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in San Francisco on September 5?",
-      "slug": "lowest-temperature-in-san-francisco-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "San Francisco",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Seattle on September 5?",
-      "slug": "highest-temperature-in-seattle-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Seattle",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Los Angeles on September 5?",
-      "slug": "highest-temperature-in-los-angeles-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Los Angeles",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in San Francisco on September 5?",
-      "slug": "highest-temperature-in-san-francisco-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "San Francisco",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Mexico City on September 5?",
-      "slug": "lowest-temperature-in-mexico-city-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Mexico City",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Mexico City on September 5?",
-      "slug": "highest-temperature-in-mexico-city-on-september-5-2026",
-      "eventDate": "2026-09-05",
-      "city": "Mexico City",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Lowest temperature in London on September 6?",
       "slug": "lowest-temperature-in-london-on-september-6-2026",
@@ -2239,6 +2159,142 @@
       "eventDate": "2026-09-08",
       "city": "Karachi",
       "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in NYC on September 8?",
+      "slug": "highest-temperature-in-nyc-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "NYC",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chicago on September 8?",
+      "slug": "highest-temperature-in-chicago-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Chicago",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Austin on September 8?",
+      "slug": "highest-temperature-in-austin-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Austin",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Houston on September 8?",
+      "slug": "highest-temperature-in-houston-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Houston",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in NYC on September 8?",
+      "slug": "lowest-temperature-in-nyc-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "NYC",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Dallas on September 8?",
+      "slug": "lowest-temperature-in-dallas-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Dallas",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Atlanta on September 8?",
+      "slug": "lowest-temperature-in-atlanta-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Atlanta",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Miami on September 8?",
+      "slug": "lowest-temperature-in-miami-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Miami",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chicago on September 8?",
+      "slug": "lowest-temperature-in-chicago-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Chicago",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Austin on September 8?",
+      "slug": "lowest-temperature-in-austin-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Austin",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Denver on September 8?",
+      "slug": "lowest-temperature-in-denver-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Denver",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Houston on September 8?",
+      "slug": "lowest-temperature-in-houston-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Houston",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Dallas on September 8?",
+      "slug": "highest-temperature-in-dallas-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Dallas",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Dallas on September 8?",
+      "slug": "highest-temperature-in-dallas-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Dallas",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Atlanta on September 8?",
+      "slug": "highest-temperature-in-atlanta-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Atlanta",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Miami on September 8?",
+      "slug": "highest-temperature-in-miami-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Miami",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Denver on September 8?",
+      "slug": "highest-temperature-in-denver-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Denver",
+      "kind": "high",
       "marketCount": 11
     }
   ]
