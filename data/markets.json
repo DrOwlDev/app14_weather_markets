@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T18:39:48Z",
+  "generatedAt": "2026-09-06T20:52:56Z",
   "markets": [
     {
       "title": "Lowest temperature in London on September 6?",
@@ -114,14 +114,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Karachi on September 6?",
-      "slug": "lowest-temperature-in-karachi-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Karachi",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in London on September 6?",
       "slug": "highest-temperature-in-london-on-september-6-2026",
       "eventDate": "2026-09-06",
@@ -230,14 +222,6 @@
       "slug": "highest-temperature-in-cape-town-on-september-6-2026",
       "eventDate": "2026-09-06",
       "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Karachi on September 6?",
-      "slug": "highest-temperature-in-karachi-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Karachi",
       "kind": "high",
       "marketCount": 11
     },
