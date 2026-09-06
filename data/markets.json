@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T16:38:05Z",
+  "generatedAt": "2026-09-06T18:39:48Z",
   "markets": [
     {
       "title": "Lowest temperature in London on September 6?",
@@ -22,14 +22,6 @@
       "slug": "lowest-temperature-in-ankara-on-september-6-2026",
       "eventDate": "2026-09-06",
       "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on September 6?",
-      "slug": "lowest-temperature-in-lucknow-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Lucknow",
       "kind": "low",
       "marketCount": 11
     },
@@ -150,14 +142,6 @@
       "slug": "highest-temperature-in-ankara-on-september-6-2026",
       "eventDate": "2026-09-06",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on September 6?",
-      "slug": "highest-temperature-in-lucknow-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
