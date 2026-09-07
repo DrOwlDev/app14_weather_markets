@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T00:22:44Z",
+  "generatedAt": "2026-09-07T05:01:51Z",
   "markets": [
     {
       "title": "Highest temperature in Chicago on September 6?",
@@ -26,34 +26,10 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in NYC on September 6?",
-      "slug": "lowest-temperature-in-nyc-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "NYC",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Dallas on September 6?",
       "slug": "lowest-temperature-in-dallas-on-september-6-2026",
       "eventDate": "2026-09-06",
       "city": "Dallas",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Atlanta on September 6?",
-      "slug": "lowest-temperature-in-atlanta-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Atlanta",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Miami on September 6?",
-      "slug": "lowest-temperature-in-miami-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Miami",
       "kind": "low",
       "marketCount": 11
     },
@@ -90,34 +66,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in NYC on September 6?",
-      "slug": "highest-temperature-in-nyc-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "NYC",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Dallas on September 6?",
       "slug": "highest-temperature-in-dallas-on-september-6-2026",
       "eventDate": "2026-09-06",
       "city": "Dallas",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Atlanta on September 6?",
-      "slug": "highest-temperature-in-atlanta-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Atlanta",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Miami on September 6?",
-      "slug": "highest-temperature-in-miami-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Miami",
       "kind": "high",
       "marketCount": 11
     },
@@ -178,30 +130,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Sao Paulo on September 6?",
-      "slug": "lowest-temperature-in-sao-paulo-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Sao Paulo",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Buenos Aires on September 6?",
-      "slug": "lowest-temperature-in-buenos-aires-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Buenos Aires",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Toronto on September 6?",
-      "slug": "lowest-temperature-in-toronto-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Toronto",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Mexico City on September 6?",
       "slug": "lowest-temperature-in-mexico-city-on-september-6-2026",
       "eventDate": "2026-09-06",
@@ -215,30 +143,6 @@
       "eventDate": "2026-09-06",
       "city": "Panama City",
       "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Sao Paulo on September 6?",
-      "slug": "highest-temperature-in-sao-paulo-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Sao Paulo",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Buenos Aires on September 6?",
-      "slug": "highest-temperature-in-buenos-aires-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Buenos Aires",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Toronto on September 6?",
-      "slug": "highest-temperature-in-toronto-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "Toronto",
-      "kind": "high",
       "marketCount": 11
     },
     {
@@ -1855,6 +1759,286 @@
       "eventDate": "2026-09-08",
       "city": "Panama City",
       "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Jinan on September 8?",
+      "slug": "lowest-temperature-in-jinan-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Jinan",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Zhengzhou on September 8?",
+      "slug": "lowest-temperature-in-zhengzhou-on-september-8-2026",
+      "eventDate": "2026-09-08",
+      "city": "Zhengzhou",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in London on September 9?",
+      "slug": "lowest-temperature-in-london-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "London",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Paris on September 9?",
+      "slug": "lowest-temperature-in-paris-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Paris",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Seoul (Incheon) on September 9?",
+      "slug": "lowest-temperature-in-seoul-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Seoul (Incheon)",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Ankara on September 9?",
+      "slug": "lowest-temperature-in-ankara-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Ankara",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Wellington on September 9?",
+      "slug": "lowest-temperature-in-wellington-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Wellington",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Lucknow on September 9?",
+      "slug": "lowest-temperature-in-lucknow-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Lucknow",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Munich on September 9?",
+      "slug": "lowest-temperature-in-munich-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Munich",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Tel Aviv on September 9?",
+      "slug": "lowest-temperature-in-tel-aviv-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Tel Aviv",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Tokyo on September 9?",
+      "slug": "lowest-temperature-in-tokyo-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Tokyo",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Hong Kong on September 9?",
+      "slug": "lowest-temperature-in-hong-kong-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Hong Kong",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Shanghai on September 9?",
+      "slug": "lowest-temperature-in-shanghai-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Shanghai",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Singapore on September 9?",
+      "slug": "lowest-temperature-in-singapore-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Singapore",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Milan on September 9?",
+      "slug": "lowest-temperature-in-milan-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Milan",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Madrid on September 9?",
+      "slug": "lowest-temperature-in-madrid-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Madrid",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Warsaw on September 9?",
+      "slug": "lowest-temperature-in-warsaw-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Warsaw",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Taipei on September 9?",
+      "slug": "lowest-temperature-in-taipei-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Taipei",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chongqing on September 9?",
+      "slug": "lowest-temperature-in-chongqing-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Chongqing",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Beijing on September 9?",
+      "slug": "lowest-temperature-in-beijing-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Beijing",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Wuhan on September 9?",
+      "slug": "lowest-temperature-in-wuhan-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Wuhan",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chengdu on September 9?",
+      "slug": "lowest-temperature-in-chengdu-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Chengdu",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Shenzhen on September 9?",
+      "slug": "lowest-temperature-in-shenzhen-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Shenzhen",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Moscow on September 9?",
+      "slug": "lowest-temperature-in-moscow-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Moscow",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Istanbul on September 9?",
+      "slug": "lowest-temperature-in-istanbul-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Istanbul",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Busan on September 9?",
+      "slug": "lowest-temperature-in-busan-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Busan",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Amsterdam on September 9?",
+      "slug": "lowest-temperature-in-amsterdam-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Amsterdam",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Helsinki on September 9?",
+      "slug": "lowest-temperature-in-helsinki-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Helsinki",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Kuala Lumpur on September 9?",
+      "slug": "lowest-temperature-in-kuala-lumpur-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Kuala Lumpur",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Jeddah on September 9?",
+      "slug": "lowest-temperature-in-jeddah-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Jeddah",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Cape Town on September 9?",
+      "slug": "lowest-temperature-in-cape-town-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Cape Town",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Guangzhou on September 9?",
+      "slug": "lowest-temperature-in-guangzhou-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Guangzhou",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Qingdao on September 9?",
+      "slug": "lowest-temperature-in-qingdao-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Qingdao",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Karachi on September 9?",
+      "slug": "lowest-temperature-in-karachi-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Karachi",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Manila on September 9?",
+      "slug": "lowest-temperature-in-manila-on-september-9-2026",
+      "eventDate": "2026-09-09",
+      "city": "Manila",
+      "kind": "low",
       "marketCount": 11
     }
   ]
