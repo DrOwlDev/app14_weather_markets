@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-09-06T22:39:59Z",
+  "generatedAt": "2026-09-07T00:22:44Z",
   "markets": [
-    {
-      "title": "Lowest temperature in London on September 6?",
-      "slug": "lowest-temperature-in-london-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "London",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in London on September 6?",
-      "slug": "highest-temperature-in-london-on-september-6-2026",
-      "eventDate": "2026-09-06",
-      "city": "London",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Highest temperature in Chicago on September 6?",
       "slug": "highest-temperature-in-chicago-on-september-6-2026",
