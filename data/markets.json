@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T17:51:55Z",
+  "generatedAt": "2026-09-08T20:30:37Z",
   "markets": [
     {
       "title": "Lowest temperature in London on September 8?",
@@ -130,14 +130,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Lucknow on September 8?",
-      "slug": "highest-temperature-in-lucknow-on-september-8-2026",
-      "eventDate": "2026-09-08",
-      "city": "Lucknow",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Munich on September 8?",
       "slug": "highest-temperature-in-munich-on-september-8-2026",
       "eventDate": "2026-09-08",
@@ -226,34 +218,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Karachi on September 8?",
-      "slug": "highest-temperature-in-karachi-on-september-8-2026",
-      "eventDate": "2026-09-08",
-      "city": "Karachi",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on September 8?",
-      "slug": "lowest-temperature-in-lucknow-on-september-8-2026",
-      "eventDate": "2026-09-08",
-      "city": "Lucknow",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Cape Town on September 8?",
       "slug": "lowest-temperature-in-cape-town-on-september-8-2026",
       "eventDate": "2026-09-08",
       "city": "Cape Town",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Karachi on September 8?",
-      "slug": "lowest-temperature-in-karachi-on-september-8-2026",
-      "eventDate": "2026-09-08",
-      "city": "Karachi",
       "kind": "low",
       "marketCount": 11
     },
