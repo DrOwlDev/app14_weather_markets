@@ -1,54 +1,6 @@
 {
-  "generatedAt": "2026-09-09T06:03:19Z",
+  "generatedAt": "2026-09-09T11:16:27Z",
   "markets": [
-    {
-      "title": "Lowest temperature in Seattle on September 8?",
-      "slug": "lowest-temperature-in-seattle-on-september-8-2026",
-      "eventDate": "2026-09-08",
-      "city": "Seattle",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Los Angeles on September 8?",
-      "slug": "lowest-temperature-in-los-angeles-on-september-8-2026",
-      "eventDate": "2026-09-08",
-      "city": "Los Angeles",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in San Francisco on September 8?",
-      "slug": "lowest-temperature-in-san-francisco-on-september-8-2026",
-      "eventDate": "2026-09-08",
-      "city": "San Francisco",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Seattle on September 8?",
-      "slug": "highest-temperature-in-seattle-on-september-8-2026",
-      "eventDate": "2026-09-08",
-      "city": "Seattle",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Los Angeles on September 8?",
-      "slug": "highest-temperature-in-los-angeles-on-september-8-2026",
-      "eventDate": "2026-09-08",
-      "city": "Los Angeles",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in San Francisco on September 8?",
-      "slug": "highest-temperature-in-san-francisco-on-september-8-2026",
-      "eventDate": "2026-09-08",
-      "city": "San Francisco",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Lowest temperature in London on September 9?",
       "slug": "lowest-temperature-in-london-on-september-9-2026",
@@ -2206,6 +2158,134 @@
       "slug": "highest-temperature-in-manila-on-september-11-2026",
       "eventDate": "2026-09-11",
       "city": "Manila",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Dallas on September 11?",
+      "slug": "highest-temperature-in-dallas-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Dallas",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Atlanta on September 11?",
+      "slug": "highest-temperature-in-atlanta-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Atlanta",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Miami on September 11?",
+      "slug": "highest-temperature-in-miami-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Miami",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Denver on September 11?",
+      "slug": "highest-temperature-in-denver-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Denver",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in NYC on September 11?",
+      "slug": "lowest-temperature-in-nyc-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "NYC",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Dallas on September 11?",
+      "slug": "lowest-temperature-in-dallas-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Dallas",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Atlanta on September 11?",
+      "slug": "lowest-temperature-in-atlanta-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Atlanta",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Miami on September 11?",
+      "slug": "lowest-temperature-in-miami-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Miami",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chicago on September 11?",
+      "slug": "lowest-temperature-in-chicago-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Chicago",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Austin on September 11?",
+      "slug": "lowest-temperature-in-austin-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Austin",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Denver on September 11?",
+      "slug": "lowest-temperature-in-denver-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Denver",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Houston on September 11?",
+      "slug": "lowest-temperature-in-houston-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Houston",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in NYC on September 11?",
+      "slug": "highest-temperature-in-nyc-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "NYC",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chicago on September 11?",
+      "slug": "highest-temperature-in-chicago-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Chicago",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Austin on September 11?",
+      "slug": "highest-temperature-in-austin-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Austin",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Houston on September 11?",
+      "slug": "highest-temperature-in-houston-on-september-11-2026",
+      "eventDate": "2026-09-11",
+      "city": "Houston",
       "kind": "high",
       "marketCount": 11
     }
