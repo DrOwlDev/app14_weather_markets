@@ -1,86 +1,6 @@
 {
-  "generatedAt": "2026-09-11T05:57:24Z",
+  "generatedAt": "2026-09-11T11:03:39Z",
   "markets": [
-    {
-      "title": "Highest temperature in Denver on September 10?",
-      "slug": "highest-temperature-in-denver-on-september-10-2026",
-      "eventDate": "2026-09-10",
-      "city": "Denver",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Denver on September 10?",
-      "slug": "lowest-temperature-in-denver-on-september-10-2026",
-      "eventDate": "2026-09-10",
-      "city": "Denver",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Seattle on September 10?",
-      "slug": "lowest-temperature-in-seattle-on-september-10-2026",
-      "eventDate": "2026-09-10",
-      "city": "Seattle",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Los Angeles on September 10?",
-      "slug": "lowest-temperature-in-los-angeles-on-september-10-2026",
-      "eventDate": "2026-09-10",
-      "city": "Los Angeles",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in San Francisco on September 10?",
-      "slug": "lowest-temperature-in-san-francisco-on-september-10-2026",
-      "eventDate": "2026-09-10",
-      "city": "San Francisco",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Seattle on September 10?",
-      "slug": "highest-temperature-in-seattle-on-september-10-2026",
-      "eventDate": "2026-09-10",
-      "city": "Seattle",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Los Angeles on September 10?",
-      "slug": "highest-temperature-in-los-angeles-on-september-10-2026",
-      "eventDate": "2026-09-10",
-      "city": "Los Angeles",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in San Francisco on September 10?",
-      "slug": "highest-temperature-in-san-francisco-on-september-10-2026",
-      "eventDate": "2026-09-10",
-      "city": "San Francisco",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Mexico City on September 10?",
-      "slug": "lowest-temperature-in-mexico-city-on-september-10-2026",
-      "eventDate": "2026-09-10",
-      "city": "Mexico City",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Mexico City on September 10?",
-      "slug": "highest-temperature-in-mexico-city-on-september-10-2026",
-      "eventDate": "2026-09-10",
-      "city": "Mexico City",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Lowest temperature in London on September 11?",
       "slug": "lowest-temperature-in-london-on-september-11-2026",
@@ -2238,6 +2158,134 @@
       "slug": "highest-temperature-in-manila-on-september-13-2026",
       "eventDate": "2026-09-13",
       "city": "Manila",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Dallas on September 13?",
+      "slug": "highest-temperature-in-dallas-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Dallas",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Atlanta on September 13?",
+      "slug": "highest-temperature-in-atlanta-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Atlanta",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chicago on September 13?",
+      "slug": "highest-temperature-in-chicago-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Chicago",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Denver on September 13?",
+      "slug": "highest-temperature-in-denver-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Denver",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Houston on September 13?",
+      "slug": "highest-temperature-in-houston-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Houston",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in NYC on September 13?",
+      "slug": "lowest-temperature-in-nyc-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "NYC",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Dallas on September 13?",
+      "slug": "lowest-temperature-in-dallas-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Dallas",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Atlanta on September 13?",
+      "slug": "lowest-temperature-in-atlanta-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Atlanta",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Miami on September 13?",
+      "slug": "lowest-temperature-in-miami-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Miami",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chicago on September 13?",
+      "slug": "lowest-temperature-in-chicago-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Chicago",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Austin on September 13?",
+      "slug": "lowest-temperature-in-austin-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Austin",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Denver on September 13?",
+      "slug": "lowest-temperature-in-denver-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Denver",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Houston on September 13?",
+      "slug": "lowest-temperature-in-houston-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Houston",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in NYC on September 13?",
+      "slug": "highest-temperature-in-nyc-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "NYC",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Miami on September 13?",
+      "slug": "highest-temperature-in-miami-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Miami",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Austin on September 13?",
+      "slug": "highest-temperature-in-austin-on-september-13-2026",
+      "eventDate": "2026-09-13",
+      "city": "Austin",
       "kind": "high",
       "marketCount": 11
     }
