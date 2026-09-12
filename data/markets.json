@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T18:44:35Z",
+  "generatedAt": "2026-09-12T21:02:37Z",
   "markets": [
     {
       "title": "Lowest temperature in London on September 12?",
@@ -18,26 +18,10 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Ankara on September 12?",
-      "slug": "lowest-temperature-in-ankara-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Munich on September 12?",
       "slug": "lowest-temperature-in-munich-on-september-12-2026",
       "eventDate": "2026-09-12",
       "city": "Munich",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Tel Aviv on September 12?",
-      "slug": "lowest-temperature-in-tel-aviv-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Tel Aviv",
       "kind": "low",
       "marketCount": 11
     },
@@ -66,22 +50,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Moscow on September 12?",
-      "slug": "lowest-temperature-in-moscow-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Moscow",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Istanbul on September 12?",
-      "slug": "lowest-temperature-in-istanbul-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Istanbul",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Amsterdam on September 12?",
       "slug": "lowest-temperature-in-amsterdam-on-september-12-2026",
       "eventDate": "2026-09-12",
@@ -90,34 +58,10 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Helsinki on September 12?",
-      "slug": "lowest-temperature-in-helsinki-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Helsinki",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Jeddah on September 12?",
-      "slug": "lowest-temperature-in-jeddah-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Jeddah",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Cape Town on September 12?",
       "slug": "lowest-temperature-in-cape-town-on-september-12-2026",
       "eventDate": "2026-09-12",
       "city": "Cape Town",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Karachi on September 12?",
-      "slug": "lowest-temperature-in-karachi-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Karachi",
       "kind": "low",
       "marketCount": 11
     },
@@ -138,26 +82,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Ankara on September 12?",
-      "slug": "highest-temperature-in-ankara-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Munich on September 12?",
       "slug": "highest-temperature-in-munich-on-september-12-2026",
       "eventDate": "2026-09-12",
       "city": "Munich",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Tel Aviv on September 12?",
-      "slug": "highest-temperature-in-tel-aviv-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Tel Aviv",
       "kind": "high",
       "marketCount": 11
     },
@@ -186,22 +114,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Moscow on September 12?",
-      "slug": "highest-temperature-in-moscow-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Moscow",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Istanbul on September 12?",
-      "slug": "highest-temperature-in-istanbul-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Istanbul",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Amsterdam on September 12?",
       "slug": "highest-temperature-in-amsterdam-on-september-12-2026",
       "eventDate": "2026-09-12",
@@ -210,34 +122,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Helsinki on September 12?",
-      "slug": "highest-temperature-in-helsinki-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Helsinki",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Jeddah on September 12?",
-      "slug": "highest-temperature-in-jeddah-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Jeddah",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Cape Town on September 12?",
       "slug": "highest-temperature-in-cape-town-on-september-12-2026",
       "eventDate": "2026-09-12",
       "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Karachi on September 12?",
-      "slug": "highest-temperature-in-karachi-on-september-12-2026",
-      "eventDate": "2026-09-12",
-      "city": "Karachi",
       "kind": "high",
       "marketCount": 11
     },
