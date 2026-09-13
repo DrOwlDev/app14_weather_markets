@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:39:48Z",
+  "generatedAt": "2026-09-13T14:43:41Z",
   "markets": [
     {
       "title": "Lowest temperature in London on September 13?",
@@ -30,14 +30,6 @@
       "slug": "lowest-temperature-in-ankara-on-september-13-2026",
       "eventDate": "2026-09-13",
       "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Wellington on September 13?",
-      "slug": "lowest-temperature-in-wellington-on-september-13-2026",
-      "eventDate": "2026-09-13",
-      "city": "Wellington",
       "kind": "low",
       "marketCount": 11
     },
@@ -294,14 +286,6 @@
       "slug": "highest-temperature-in-ankara-on-september-13-2026",
       "eventDate": "2026-09-13",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Wellington on September 13?",
-      "slug": "highest-temperature-in-wellington-on-september-13-2026",
-      "eventDate": "2026-09-13",
-      "city": "Wellington",
       "kind": "high",
       "marketCount": 11
     },
