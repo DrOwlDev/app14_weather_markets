@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T17:09:53Z",
+  "generatedAt": "2026-09-15T20:16:52Z",
   "markets": [
     {
       "title": "Highest temperature in London on September 15?",
@@ -94,14 +94,6 @@
       "slug": "highest-temperature-in-ankara-on-september-15-2026",
       "eventDate": "2026-09-15",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on September 15?",
-      "slug": "highest-temperature-in-lucknow-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
@@ -330,14 +322,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Lucknow on September 15?",
-      "slug": "lowest-temperature-in-lucknow-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Lucknow",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Munich on September 15?",
       "slug": "lowest-temperature-in-munich-on-september-15-2026",
       "eventDate": "2026-09-15",
@@ -482,14 +466,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Karachi on September 15?",
-      "slug": "lowest-temperature-in-karachi-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Karachi",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Jeddah on September 15?",
       "slug": "highest-temperature-in-jeddah-on-september-15-2026",
       "eventDate": "2026-09-15",
@@ -502,14 +478,6 @@
       "slug": "highest-temperature-in-cape-town-on-september-15-2026",
       "eventDate": "2026-09-15",
       "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Karachi on September 15?",
-      "slug": "highest-temperature-in-karachi-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Karachi",
       "kind": "high",
       "marketCount": 11
     },
