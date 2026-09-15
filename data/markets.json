@@ -1,19 +1,11 @@
 {
-  "generatedAt": "2026-09-15T20:16:52Z",
+  "generatedAt": "2026-09-15T22:59:34Z",
   "markets": [
     {
       "title": "Highest temperature in London on September 15?",
       "slug": "highest-temperature-in-london-on-september-15-2026",
       "eventDate": "2026-09-15",
       "city": "London",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Paris on September 15?",
-      "slug": "highest-temperature-in-paris-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Paris",
       "kind": "high",
       "marketCount": 11
     },
@@ -90,54 +82,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Ankara on September 15?",
-      "slug": "highest-temperature-in-ankara-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Munich on September 15?",
-      "slug": "highest-temperature-in-munich-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Munich",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Tel Aviv on September 15?",
-      "slug": "highest-temperature-in-tel-aviv-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Tel Aviv",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Milan on September 15?",
-      "slug": "highest-temperature-in-milan-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Milan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Madrid on September 15?",
-      "slug": "highest-temperature-in-madrid-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Madrid",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Warsaw on September 15?",
-      "slug": "highest-temperature-in-warsaw-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Warsaw",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Austin on September 15?",
       "slug": "highest-temperature-in-austin-on-september-15-2026",
       "eventDate": "2026-09-15",
@@ -178,42 +122,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Moscow on September 15?",
-      "slug": "highest-temperature-in-moscow-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Moscow",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Istanbul on September 15?",
-      "slug": "highest-temperature-in-istanbul-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Istanbul",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Mexico City on September 15?",
       "slug": "highest-temperature-in-mexico-city-on-september-15-2026",
       "eventDate": "2026-09-15",
       "city": "Mexico City",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Amsterdam on September 15?",
-      "slug": "highest-temperature-in-amsterdam-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Amsterdam",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Helsinki on September 15?",
-      "slug": "highest-temperature-in-helsinki-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Helsinki",
       "kind": "high",
       "marketCount": 11
     },
@@ -230,14 +142,6 @@
       "slug": "lowest-temperature-in-london-on-september-15-2026",
       "eventDate": "2026-09-15",
       "city": "London",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Paris on September 15?",
-      "slug": "lowest-temperature-in-paris-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Paris",
       "kind": "low",
       "marketCount": 11
     },
@@ -314,54 +218,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Ankara on September 15?",
-      "slug": "lowest-temperature-in-ankara-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Munich on September 15?",
-      "slug": "lowest-temperature-in-munich-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Munich",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Tel Aviv on September 15?",
-      "slug": "lowest-temperature-in-tel-aviv-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Tel Aviv",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Milan on September 15?",
-      "slug": "lowest-temperature-in-milan-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Milan",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Madrid on September 15?",
-      "slug": "lowest-temperature-in-madrid-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Madrid",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Warsaw on September 15?",
-      "slug": "lowest-temperature-in-warsaw-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Warsaw",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Austin on September 15?",
       "slug": "lowest-temperature-in-austin-on-september-15-2026",
       "eventDate": "2026-09-15",
@@ -402,42 +258,10 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Moscow on September 15?",
-      "slug": "lowest-temperature-in-moscow-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Moscow",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Istanbul on September 15?",
-      "slug": "lowest-temperature-in-istanbul-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Istanbul",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Mexico City on September 15?",
       "slug": "lowest-temperature-in-mexico-city-on-september-15-2026",
       "eventDate": "2026-09-15",
       "city": "Mexico City",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Amsterdam on September 15?",
-      "slug": "lowest-temperature-in-amsterdam-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Amsterdam",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Helsinki on September 15?",
-      "slug": "lowest-temperature-in-helsinki-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Helsinki",
       "kind": "low",
       "marketCount": 11
     },
@@ -447,38 +271,6 @@
       "eventDate": "2026-09-15",
       "city": "Panama City",
       "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Jeddah on September 15?",
-      "slug": "lowest-temperature-in-jeddah-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Jeddah",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Cape Town on September 15?",
-      "slug": "lowest-temperature-in-cape-town-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Cape Town",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Jeddah on September 15?",
-      "slug": "highest-temperature-in-jeddah-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Jeddah",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Cape Town on September 15?",
-      "slug": "highest-temperature-in-cape-town-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "Cape Town",
-      "kind": "high",
       "marketCount": 11
     },
     {
