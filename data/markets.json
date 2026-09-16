@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-09-15T22:59:34Z",
+  "generatedAt": "2026-09-16T01:21:15Z",
   "markets": [
-    {
-      "title": "Highest temperature in London on September 15?",
-      "slug": "highest-temperature-in-london-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "London",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Highest temperature in Sao Paulo on September 15?",
       "slug": "highest-temperature-in-sao-paulo-on-september-15-2026",
@@ -135,14 +127,6 @@
       "eventDate": "2026-09-15",
       "city": "Panama City",
       "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in London on September 15?",
-      "slug": "lowest-temperature-in-london-on-september-15-2026",
-      "eventDate": "2026-09-15",
-      "city": "London",
-      "kind": "low",
       "marketCount": 11
     },
     {
