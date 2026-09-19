@@ -1,166 +1,6 @@
 {
-  "generatedAt": "2026-09-19T04:38:59Z",
+  "generatedAt": "2026-09-19T09:01:35Z",
   "markets": [
-    {
-      "title": "Highest temperature in Austin on September 18?",
-      "slug": "highest-temperature-in-austin-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Austin",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Denver on September 18?",
-      "slug": "highest-temperature-in-denver-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Denver",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Dallas on September 18?",
-      "slug": "lowest-temperature-in-dallas-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Dallas",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Chicago on September 18?",
-      "slug": "lowest-temperature-in-chicago-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Chicago",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Austin on September 18?",
-      "slug": "lowest-temperature-in-austin-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Austin",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Denver on September 18?",
-      "slug": "lowest-temperature-in-denver-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Denver",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Houston on September 18?",
-      "slug": "lowest-temperature-in-houston-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Houston",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Dallas on September 18?",
-      "slug": "highest-temperature-in-dallas-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Dallas",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chicago on September 18?",
-      "slug": "highest-temperature-in-chicago-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Chicago",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Houston on September 18?",
-      "slug": "highest-temperature-in-houston-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Houston",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Seattle on September 18?",
-      "slug": "lowest-temperature-in-seattle-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Seattle",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Los Angeles on September 18?",
-      "slug": "lowest-temperature-in-los-angeles-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Los Angeles",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in San Francisco on September 18?",
-      "slug": "lowest-temperature-in-san-francisco-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "San Francisco",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Seattle on September 18?",
-      "slug": "highest-temperature-in-seattle-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Seattle",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Los Angeles on September 18?",
-      "slug": "highest-temperature-in-los-angeles-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Los Angeles",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in San Francisco on September 18?",
-      "slug": "highest-temperature-in-san-francisco-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "San Francisco",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Mexico City on September 18?",
-      "slug": "lowest-temperature-in-mexico-city-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Mexico City",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Panama City on September 18?",
-      "slug": "lowest-temperature-in-panama-city-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Panama City",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Mexico City on September 18?",
-      "slug": "highest-temperature-in-mexico-city-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Mexico City",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Panama City on September 18?",
-      "slug": "highest-temperature-in-panama-city-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Panama City",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Lowest temperature in London on September 19?",
       "slug": "lowest-temperature-in-london-on-september-19-2026",
@@ -1498,6 +1338,14 @@
       "marketCount": 11
     },
     {
+      "title": "Highest temperature in Manila on September 20?",
+      "slug": "highest-temperature-in-manila-on-september-20-2026",
+      "eventDate": "2026-09-20",
+      "city": "Manila",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
       "title": "Highest temperature in NYC on September 20?",
       "slug": "highest-temperature-in-nyc-on-september-20-2026",
       "eventDate": "2026-09-20",
@@ -2031,6 +1879,414 @@
       "eventDate": "2026-09-21",
       "city": "Manila",
       "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Jinan on September 20?",
+      "slug": "highest-temperature-in-jinan-on-september-20-2026",
+      "eventDate": "2026-09-20",
+      "city": "Jinan",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Zhengzhou on September 20?",
+      "slug": "highest-temperature-in-zhengzhou-on-september-20-2026",
+      "eventDate": "2026-09-20",
+      "city": "Zhengzhou",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in London on September 21?",
+      "slug": "highest-temperature-in-london-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "London",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Paris on September 21?",
+      "slug": "highest-temperature-in-paris-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Paris",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Seoul (Incheon) on September 21?",
+      "slug": "highest-temperature-in-seoul-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Seoul (Incheon)",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Ankara on September 21?",
+      "slug": "highest-temperature-in-ankara-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Ankara",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Wellington on September 21?",
+      "slug": "highest-temperature-in-wellington-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Wellington",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Lucknow on September 21?",
+      "slug": "highest-temperature-in-lucknow-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Lucknow",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Munich on September 21?",
+      "slug": "highest-temperature-in-munich-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Munich",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Tel Aviv on September 21?",
+      "slug": "highest-temperature-in-tel-aviv-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Tel Aviv",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Tokyo on September 21?",
+      "slug": "highest-temperature-in-tokyo-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Tokyo",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Hong Kong on September 21?",
+      "slug": "highest-temperature-in-hong-kong-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Hong Kong",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Shanghai on September 21?",
+      "slug": "highest-temperature-in-shanghai-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Shanghai",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Singapore on September 21?",
+      "slug": "highest-temperature-in-singapore-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Singapore",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Milan on September 21?",
+      "slug": "highest-temperature-in-milan-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Milan",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Madrid on September 21?",
+      "slug": "highest-temperature-in-madrid-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Madrid",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Warsaw on September 21?",
+      "slug": "highest-temperature-in-warsaw-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Warsaw",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Taipei on September 21?",
+      "slug": "highest-temperature-in-taipei-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Taipei",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chongqing on September 21?",
+      "slug": "highest-temperature-in-chongqing-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Chongqing",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Beijing on September 21?",
+      "slug": "highest-temperature-in-beijing-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Beijing",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Wuhan on September 21?",
+      "slug": "highest-temperature-in-wuhan-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Wuhan",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chengdu on September 21?",
+      "slug": "highest-temperature-in-chengdu-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Chengdu",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Shenzhen on September 21?",
+      "slug": "highest-temperature-in-shenzhen-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Shenzhen",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Moscow on September 21?",
+      "slug": "highest-temperature-in-moscow-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Moscow",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Istanbul on September 21?",
+      "slug": "highest-temperature-in-istanbul-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Istanbul",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Busan on September 21?",
+      "slug": "highest-temperature-in-busan-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Busan",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Amsterdam on September 21?",
+      "slug": "highest-temperature-in-amsterdam-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Amsterdam",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Helsinki on September 21?",
+      "slug": "highest-temperature-in-helsinki-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Helsinki",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Kuala Lumpur on September 21?",
+      "slug": "highest-temperature-in-kuala-lumpur-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Kuala Lumpur",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Jeddah on September 21?",
+      "slug": "highest-temperature-in-jeddah-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Jeddah",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Cape Town on September 21?",
+      "slug": "highest-temperature-in-cape-town-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Cape Town",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Guangzhou on September 21?",
+      "slug": "highest-temperature-in-guangzhou-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Guangzhou",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Qingdao on September 21?",
+      "slug": "highest-temperature-in-qingdao-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Qingdao",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Karachi on September 21?",
+      "slug": "highest-temperature-in-karachi-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Karachi",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Manila on September 21?",
+      "slug": "highest-temperature-in-manila-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Manila",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Dallas on September 21?",
+      "slug": "highest-temperature-in-dallas-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Dallas",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Denver on September 21?",
+      "slug": "highest-temperature-in-denver-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Denver",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Houston on September 21?",
+      "slug": "highest-temperature-in-houston-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Houston",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in NYC on September 21?",
+      "slug": "lowest-temperature-in-nyc-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "NYC",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Dallas on September 21?",
+      "slug": "lowest-temperature-in-dallas-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Dallas",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Atlanta on September 21?",
+      "slug": "lowest-temperature-in-atlanta-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Atlanta",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Miami on September 21?",
+      "slug": "lowest-temperature-in-miami-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Miami",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chicago on September 21?",
+      "slug": "lowest-temperature-in-chicago-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Chicago",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Austin on September 21?",
+      "slug": "lowest-temperature-in-austin-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Austin",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Denver on September 21?",
+      "slug": "lowest-temperature-in-denver-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Denver",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Houston on September 21?",
+      "slug": "lowest-temperature-in-houston-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Houston",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in NYC on September 21?",
+      "slug": "highest-temperature-in-nyc-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "NYC",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Atlanta on September 21?",
+      "slug": "highest-temperature-in-atlanta-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Atlanta",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Miami on September 21?",
+      "slug": "highest-temperature-in-miami-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Miami",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chicago on September 21?",
+      "slug": "highest-temperature-in-chicago-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Chicago",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Austin on September 21?",
+      "slug": "highest-temperature-in-austin-on-september-21-2026",
+      "eventDate": "2026-09-21",
+      "city": "Austin",
+      "kind": "high",
       "marketCount": 11
     }
   ]
