@@ -1,134 +1,6 @@
 {
-  "generatedAt": "2026-09-18T21:58:17Z",
+  "generatedAt": "2026-09-19T00:11:06Z",
   "markets": [
-    {
-      "title": "Lowest temperature in London on September 18?",
-      "slug": "lowest-temperature-in-london-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "London",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Paris on September 18?",
-      "slug": "lowest-temperature-in-paris-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Paris",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Munich on September 18?",
-      "slug": "lowest-temperature-in-munich-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Munich",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Milan on September 18?",
-      "slug": "lowest-temperature-in-milan-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Milan",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Madrid on September 18?",
-      "slug": "lowest-temperature-in-madrid-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Madrid",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Warsaw on September 18?",
-      "slug": "lowest-temperature-in-warsaw-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Warsaw",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Amsterdam on September 18?",
-      "slug": "lowest-temperature-in-amsterdam-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Amsterdam",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Cape Town on September 18?",
-      "slug": "lowest-temperature-in-cape-town-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Cape Town",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in London on September 18?",
-      "slug": "highest-temperature-in-london-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "London",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Paris on September 18?",
-      "slug": "highest-temperature-in-paris-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Paris",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Munich on September 18?",
-      "slug": "highest-temperature-in-munich-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Munich",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Milan on September 18?",
-      "slug": "highest-temperature-in-milan-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Milan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Madrid on September 18?",
-      "slug": "highest-temperature-in-madrid-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Madrid",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Warsaw on September 18?",
-      "slug": "highest-temperature-in-warsaw-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Warsaw",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Amsterdam on September 18?",
-      "slug": "highest-temperature-in-amsterdam-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Amsterdam",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Cape Town on September 18?",
-      "slug": "highest-temperature-in-cape-town-on-september-18-2026",
-      "eventDate": "2026-09-18",
-      "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Highest temperature in Atlanta on September 18?",
       "slug": "highest-temperature-in-atlanta-on-september-18-2026",
@@ -1494,6 +1366,14 @@
       "slug": "highest-temperature-in-ankara-on-september-20-2026",
       "eventDate": "2026-09-20",
       "city": "Ankara",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Wellington on September 20?",
+      "slug": "highest-temperature-in-wellington-on-september-20-2026",
+      "eventDate": "2026-09-20",
+      "city": "Wellington",
       "kind": "high",
       "marketCount": 11
     },
