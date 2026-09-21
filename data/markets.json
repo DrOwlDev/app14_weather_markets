@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-09-20T22:06:53Z",
+  "generatedAt": "2026-09-21T00:15:24Z",
   "markets": [
-    {
-      "title": "Lowest temperature in London on September 20?",
-      "slug": "lowest-temperature-in-london-on-september-20-2026",
-      "eventDate": "2026-09-20",
-      "city": "London",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in London on September 20?",
-      "slug": "highest-temperature-in-london-on-september-20-2026",
-      "eventDate": "2026-09-20",
-      "city": "London",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Highest temperature in NYC on September 20?",
       "slug": "highest-temperature-in-nyc-on-september-20-2026",
