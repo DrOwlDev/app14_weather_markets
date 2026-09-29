@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T13:04:23Z",
+  "generatedAt": "2026-09-29T18:37:32Z",
   "markets": [
     {
       "title": "Lowest temperature in London on September 29?",
@@ -14,14 +14,6 @@
       "slug": "lowest-temperature-in-paris-on-september-29-2026",
       "eventDate": "2026-09-29",
       "city": "Paris",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Seoul (Incheon) on September 29?",
-      "slug": "lowest-temperature-in-seoul-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Seoul (Incheon)",
       "kind": "low",
       "marketCount": 11
     },
@@ -50,30 +42,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Tokyo on September 29?",
-      "slug": "lowest-temperature-in-tokyo-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Tokyo",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Hong Kong on September 29?",
-      "slug": "lowest-temperature-in-hong-kong-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Hong Kong",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Shanghai on September 29?",
-      "slug": "lowest-temperature-in-shanghai-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Shanghai",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Milan on September 29?",
       "slug": "lowest-temperature-in-milan-on-september-29-2026",
       "eventDate": "2026-09-29",
@@ -98,54 +66,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Taipei on September 29?",
-      "slug": "lowest-temperature-in-taipei-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Taipei",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Chongqing on September 29?",
-      "slug": "lowest-temperature-in-chongqing-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Chongqing",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Beijing on September 29?",
-      "slug": "lowest-temperature-in-beijing-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Beijing",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Wuhan on September 29?",
-      "slug": "lowest-temperature-in-wuhan-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Wuhan",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Chengdu on September 29?",
-      "slug": "lowest-temperature-in-chengdu-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Chengdu",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Shenzhen on September 29?",
-      "slug": "lowest-temperature-in-shenzhen-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Shenzhen",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Moscow on September 29?",
       "slug": "lowest-temperature-in-moscow-on-september-29-2026",
       "eventDate": "2026-09-29",
@@ -158,14 +78,6 @@
       "slug": "lowest-temperature-in-istanbul-on-september-29-2026",
       "eventDate": "2026-09-29",
       "city": "Istanbul",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Busan on September 29?",
-      "slug": "lowest-temperature-in-busan-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Busan",
       "kind": "low",
       "marketCount": 11
     },
@@ -202,22 +114,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Guangzhou on September 29?",
-      "slug": "lowest-temperature-in-guangzhou-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Guangzhou",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Qingdao on September 29?",
-      "slug": "lowest-temperature-in-qingdao-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Qingdao",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in London on September 29?",
       "slug": "highest-temperature-in-london-on-september-29-2026",
       "eventDate": "2026-09-29",
@@ -234,26 +130,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Seoul (Incheon) on September 29?",
-      "slug": "highest-temperature-in-seoul-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Seoul (Incheon)",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Ankara on September 29?",
       "slug": "highest-temperature-in-ankara-on-september-29-2026",
       "eventDate": "2026-09-29",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on September 29?",
-      "slug": "highest-temperature-in-lucknow-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
@@ -270,38 +150,6 @@
       "slug": "highest-temperature-in-tel-aviv-on-september-29-2026",
       "eventDate": "2026-09-29",
       "city": "Tel Aviv",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Tokyo on September 29?",
-      "slug": "highest-temperature-in-tokyo-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Tokyo",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Hong Kong on September 29?",
-      "slug": "highest-temperature-in-hong-kong-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Hong Kong",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Shanghai on September 29?",
-      "slug": "highest-temperature-in-shanghai-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Shanghai",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Singapore on September 29?",
-      "slug": "highest-temperature-in-singapore-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Singapore",
       "kind": "high",
       "marketCount": 11
     },
@@ -330,54 +178,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Taipei on September 29?",
-      "slug": "highest-temperature-in-taipei-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Taipei",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chongqing on September 29?",
-      "slug": "highest-temperature-in-chongqing-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Chongqing",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Beijing on September 29?",
-      "slug": "highest-temperature-in-beijing-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Beijing",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Wuhan on September 29?",
-      "slug": "highest-temperature-in-wuhan-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Wuhan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chengdu on September 29?",
-      "slug": "highest-temperature-in-chengdu-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Chengdu",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Shenzhen on September 29?",
-      "slug": "highest-temperature-in-shenzhen-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Shenzhen",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Moscow on September 29?",
       "slug": "highest-temperature-in-moscow-on-september-29-2026",
       "eventDate": "2026-09-29",
@@ -390,14 +190,6 @@
       "slug": "highest-temperature-in-istanbul-on-september-29-2026",
       "eventDate": "2026-09-29",
       "city": "Istanbul",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Busan on September 29?",
-      "slug": "highest-temperature-in-busan-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Busan",
       "kind": "high",
       "marketCount": 11
     },
@@ -418,14 +210,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Kuala Lumpur on September 29?",
-      "slug": "highest-temperature-in-kuala-lumpur-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Kuala Lumpur",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Jeddah on September 29?",
       "slug": "highest-temperature-in-jeddah-on-september-29-2026",
       "eventDate": "2026-09-29",
@@ -442,43 +226,11 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Guangzhou on September 29?",
-      "slug": "highest-temperature-in-guangzhou-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Guangzhou",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Qingdao on September 29?",
-      "slug": "highest-temperature-in-qingdao-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Qingdao",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Karachi on September 29?",
       "slug": "highest-temperature-in-karachi-on-september-29-2026",
       "eventDate": "2026-09-29",
       "city": "Karachi",
       "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Manila on September 29?",
-      "slug": "highest-temperature-in-manila-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Manila",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on September 29?",
-      "slug": "lowest-temperature-in-lucknow-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Lucknow",
-      "kind": "low",
       "marketCount": 11
     },
     {
@@ -738,22 +490,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Jinan on September 29?",
-      "slug": "lowest-temperature-in-jinan-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Jinan",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Zhengzhou on September 29?",
-      "slug": "lowest-temperature-in-zhengzhou-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Zhengzhou",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in London on September 30?",
       "slug": "lowest-temperature-in-london-on-september-30-2026",
       "eventDate": "2026-09-30",
@@ -991,22 +727,6 @@
       "eventDate": "2026-09-30",
       "city": "Karachi",
       "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Jinan on September 29?",
-      "slug": "highest-temperature-in-jinan-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Jinan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Zhengzhou on September 29?",
-      "slug": "highest-temperature-in-zhengzhou-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Zhengzhou",
-      "kind": "high",
       "marketCount": 11
     },
     {
