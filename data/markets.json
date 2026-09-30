@@ -1,254 +1,6 @@
 {
-  "generatedAt": "2026-09-30T01:35:48Z",
+  "generatedAt": "2026-09-30T07:27:28Z",
   "markets": [
-    {
-      "title": "Highest temperature in Dallas on September 29?",
-      "slug": "highest-temperature-in-dallas-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Dallas",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Denver on September 29?",
-      "slug": "highest-temperature-in-denver-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Denver",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in NYC on September 29?",
-      "slug": "lowest-temperature-in-nyc-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "NYC",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Dallas on September 29?",
-      "slug": "lowest-temperature-in-dallas-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Dallas",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Atlanta on September 29?",
-      "slug": "lowest-temperature-in-atlanta-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Atlanta",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Miami on September 29?",
-      "slug": "lowest-temperature-in-miami-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Miami",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Chicago on September 29?",
-      "slug": "lowest-temperature-in-chicago-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Chicago",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Austin on September 29?",
-      "slug": "lowest-temperature-in-austin-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Austin",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Denver on September 29?",
-      "slug": "lowest-temperature-in-denver-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Denver",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Houston on September 29?",
-      "slug": "lowest-temperature-in-houston-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Houston",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in NYC on September 29?",
-      "slug": "highest-temperature-in-nyc-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "NYC",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Atlanta on September 29?",
-      "slug": "highest-temperature-in-atlanta-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Atlanta",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Miami on September 29?",
-      "slug": "highest-temperature-in-miami-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Miami",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chicago on September 29?",
-      "slug": "highest-temperature-in-chicago-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Chicago",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Austin on September 29?",
-      "slug": "highest-temperature-in-austin-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Austin",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Houston on September 29?",
-      "slug": "highest-temperature-in-houston-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Houston",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Seattle on September 29?",
-      "slug": "lowest-temperature-in-seattle-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Seattle",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Los Angeles on September 29?",
-      "slug": "lowest-temperature-in-los-angeles-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Los Angeles",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in San Francisco on September 29?",
-      "slug": "lowest-temperature-in-san-francisco-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "San Francisco",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Seattle on September 29?",
-      "slug": "highest-temperature-in-seattle-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Seattle",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Los Angeles on September 29?",
-      "slug": "highest-temperature-in-los-angeles-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Los Angeles",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in San Francisco on September 29?",
-      "slug": "highest-temperature-in-san-francisco-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "San Francisco",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Sao Paulo on September 29?",
-      "slug": "lowest-temperature-in-sao-paulo-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Sao Paulo",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Buenos Aires on September 29?",
-      "slug": "lowest-temperature-in-buenos-aires-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Buenos Aires",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Toronto on September 29?",
-      "slug": "lowest-temperature-in-toronto-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Toronto",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Mexico City on September 29?",
-      "slug": "lowest-temperature-in-mexico-city-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Mexico City",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Sao Paulo on September 29?",
-      "slug": "highest-temperature-in-sao-paulo-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Sao Paulo",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Buenos Aires on September 29?",
-      "slug": "highest-temperature-in-buenos-aires-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Buenos Aires",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Toronto on September 29?",
-      "slug": "highest-temperature-in-toronto-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Toronto",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Mexico City on September 29?",
-      "slug": "highest-temperature-in-mexico-city-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Mexico City",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Panama City on September 29?",
-      "slug": "highest-temperature-in-panama-city-on-september-29-2026",
-      "eventDate": "2026-09-29",
-      "city": "Panama City",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Lowest temperature in London on September 30?",
       "slug": "lowest-temperature-in-london-on-september-30-2026",
@@ -1766,6 +1518,526 @@
       "slug": "highest-temperature-in-panama-city-on-october-1-2026",
       "eventDate": "2026-10-01",
       "city": "Panama City",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Zhengzhou on October 1?",
+      "slug": "lowest-temperature-in-zhengzhou-on-october-1-2026",
+      "eventDate": "2026-10-01",
+      "city": "Zhengzhou",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in London on October 2?",
+      "slug": "lowest-temperature-in-london-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "London",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Paris on October 2?",
+      "slug": "lowest-temperature-in-paris-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Paris",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Seoul (Incheon) on October 2?",
+      "slug": "lowest-temperature-in-seoul-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Seoul (Incheon)",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Ankara on October 2?",
+      "slug": "lowest-temperature-in-ankara-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Ankara",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Wellington on October 2?",
+      "slug": "lowest-temperature-in-wellington-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Wellington",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Lucknow on October 2?",
+      "slug": "lowest-temperature-in-lucknow-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Lucknow",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Munich on October 2?",
+      "slug": "lowest-temperature-in-munich-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Munich",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Tel Aviv on October 2?",
+      "slug": "lowest-temperature-in-tel-aviv-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Tel Aviv",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Tokyo on October 2?",
+      "slug": "lowest-temperature-in-tokyo-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Tokyo",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Hong Kong on October 2?",
+      "slug": "lowest-temperature-in-hong-kong-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Hong Kong",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Shanghai on October 2?",
+      "slug": "lowest-temperature-in-shanghai-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Shanghai",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Milan on October 2?",
+      "slug": "lowest-temperature-in-milan-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Milan",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Madrid on October 2?",
+      "slug": "lowest-temperature-in-madrid-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Madrid",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Warsaw on October 2?",
+      "slug": "lowest-temperature-in-warsaw-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Warsaw",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Taipei on October 2?",
+      "slug": "lowest-temperature-in-taipei-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Taipei",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chongqing on October 2?",
+      "slug": "lowest-temperature-in-chongqing-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Chongqing",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Beijing on October 2?",
+      "slug": "lowest-temperature-in-beijing-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Beijing",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Wuhan on October 2?",
+      "slug": "lowest-temperature-in-wuhan-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Wuhan",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chengdu on October 2?",
+      "slug": "lowest-temperature-in-chengdu-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Chengdu",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Shenzhen on October 2?",
+      "slug": "lowest-temperature-in-shenzhen-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Shenzhen",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Moscow on October 2?",
+      "slug": "lowest-temperature-in-moscow-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Moscow",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Istanbul on October 2?",
+      "slug": "lowest-temperature-in-istanbul-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Istanbul",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Busan on October 2?",
+      "slug": "lowest-temperature-in-busan-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Busan",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Amsterdam on October 2?",
+      "slug": "lowest-temperature-in-amsterdam-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Amsterdam",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Helsinki on October 2?",
+      "slug": "lowest-temperature-in-helsinki-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Helsinki",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Jeddah on October 2?",
+      "slug": "lowest-temperature-in-jeddah-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Jeddah",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Cape Town on October 2?",
+      "slug": "lowest-temperature-in-cape-town-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Cape Town",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Guangzhou on October 2?",
+      "slug": "lowest-temperature-in-guangzhou-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Guangzhou",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Qingdao on October 2?",
+      "slug": "lowest-temperature-in-qingdao-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Qingdao",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Karachi on October 2?",
+      "slug": "lowest-temperature-in-karachi-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Karachi",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Zhengzhou on October 1?",
+      "slug": "highest-temperature-in-zhengzhou-on-october-1-2026",
+      "eventDate": "2026-10-01",
+      "city": "Zhengzhou",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in London on October 2?",
+      "slug": "highest-temperature-in-london-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "London",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Paris on October 2?",
+      "slug": "highest-temperature-in-paris-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Paris",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Seoul (Incheon) on October 2?",
+      "slug": "highest-temperature-in-seoul-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Seoul (Incheon)",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Ankara on October 2?",
+      "slug": "highest-temperature-in-ankara-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Ankara",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Wellington on October 2?",
+      "slug": "highest-temperature-in-wellington-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Wellington",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Lucknow on October 2?",
+      "slug": "highest-temperature-in-lucknow-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Lucknow",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Munich on October 2?",
+      "slug": "highest-temperature-in-munich-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Munich",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Tel Aviv on October 2?",
+      "slug": "highest-temperature-in-tel-aviv-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Tel Aviv",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Tokyo on October 2?",
+      "slug": "highest-temperature-in-tokyo-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Tokyo",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Hong Kong on October 2?",
+      "slug": "highest-temperature-in-hong-kong-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Hong Kong",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Shanghai on October 2?",
+      "slug": "highest-temperature-in-shanghai-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Shanghai",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Singapore on October 2?",
+      "slug": "highest-temperature-in-singapore-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Singapore",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Milan on October 2?",
+      "slug": "highest-temperature-in-milan-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Milan",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Madrid on October 2?",
+      "slug": "highest-temperature-in-madrid-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Madrid",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Warsaw on October 2?",
+      "slug": "highest-temperature-in-warsaw-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Warsaw",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Taipei on October 2?",
+      "slug": "highest-temperature-in-taipei-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Taipei",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chongqing on October 2?",
+      "slug": "highest-temperature-in-chongqing-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Chongqing",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Beijing on October 2?",
+      "slug": "highest-temperature-in-beijing-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Beijing",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Wuhan on October 2?",
+      "slug": "highest-temperature-in-wuhan-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Wuhan",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chengdu on October 2?",
+      "slug": "highest-temperature-in-chengdu-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Chengdu",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Shenzhen on October 2?",
+      "slug": "highest-temperature-in-shenzhen-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Shenzhen",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Moscow on October 2?",
+      "slug": "highest-temperature-in-moscow-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Moscow",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Istanbul on October 2?",
+      "slug": "highest-temperature-in-istanbul-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Istanbul",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Busan on October 2?",
+      "slug": "highest-temperature-in-busan-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Busan",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Amsterdam on October 2?",
+      "slug": "highest-temperature-in-amsterdam-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Amsterdam",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Helsinki on October 2?",
+      "slug": "highest-temperature-in-helsinki-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Helsinki",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Kuala Lumpur on October 2?",
+      "slug": "highest-temperature-in-kuala-lumpur-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Kuala Lumpur",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Jeddah on October 2?",
+      "slug": "highest-temperature-in-jeddah-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Jeddah",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Cape Town on October 2?",
+      "slug": "highest-temperature-in-cape-town-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Cape Town",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Guangzhou on October 2?",
+      "slug": "highest-temperature-in-guangzhou-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Guangzhou",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Qingdao on October 2?",
+      "slug": "highest-temperature-in-qingdao-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Qingdao",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Karachi on October 2?",
+      "slug": "highest-temperature-in-karachi-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Karachi",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Manila on October 2?",
+      "slug": "highest-temperature-in-manila-on-october-2-2026",
+      "eventDate": "2026-10-02",
+      "city": "Manila",
       "kind": "high",
       "marketCount": 11
     }
