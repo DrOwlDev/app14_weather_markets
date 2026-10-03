@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T16:13:46Z",
+  "generatedAt": "2026-10-03T19:18:31Z",
   "markets": [
     {
       "title": "Lowest temperature in London on October 3?",
@@ -22,14 +22,6 @@
       "slug": "lowest-temperature-in-ankara-on-october-3-2026",
       "eventDate": "2026-10-03",
       "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on October 3?",
-      "slug": "lowest-temperature-in-lucknow-on-october-3-2026",
-      "eventDate": "2026-10-03",
-      "city": "Lucknow",
       "kind": "low",
       "marketCount": 11
     },
@@ -122,14 +114,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Karachi on October 3?",
-      "slug": "lowest-temperature-in-karachi-on-october-3-2026",
-      "eventDate": "2026-10-03",
-      "city": "Karachi",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in London on October 3?",
       "slug": "highest-temperature-in-london-on-october-3-2026",
       "eventDate": "2026-10-03",
@@ -150,14 +134,6 @@
       "slug": "highest-temperature-in-ankara-on-october-3-2026",
       "eventDate": "2026-10-03",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on October 3?",
-      "slug": "highest-temperature-in-lucknow-on-october-3-2026",
-      "eventDate": "2026-10-03",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
@@ -246,14 +222,6 @@
       "slug": "highest-temperature-in-cape-town-on-october-3-2026",
       "eventDate": "2026-10-03",
       "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Karachi on October 3?",
-      "slug": "highest-temperature-in-karachi-on-october-3-2026",
-      "eventDate": "2026-10-03",
-      "city": "Karachi",
       "kind": "high",
       "marketCount": 11
     },
