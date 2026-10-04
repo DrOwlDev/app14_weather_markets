@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-10-03T22:14:31Z",
+  "generatedAt": "2026-10-04T00:44:57Z",
   "markets": [
-    {
-      "title": "Lowest temperature in London on October 3?",
-      "slug": "lowest-temperature-in-london-on-october-3-2026",
-      "eventDate": "2026-10-03",
-      "city": "London",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in London on October 3?",
-      "slug": "highest-temperature-in-london-on-october-3-2026",
-      "eventDate": "2026-10-03",
-      "city": "London",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Highest temperature in Dallas on October 3?",
       "slug": "highest-temperature-in-dallas-on-october-3-2026",
