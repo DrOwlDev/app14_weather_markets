@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T23:13:38Z",
+  "generatedAt": "2026-10-05T02:04:55Z",
   "markets": [
     {
       "title": "Highest temperature in Chicago on October 4?",
@@ -566,6 +566,30 @@
       "slug": "highest-temperature-in-hong-kong-on-october-5-2026",
       "eventDate": "2026-10-05",
       "city": "Hong Kong",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Shanghai on October 5?",
+      "slug": "highest-temperature-in-shanghai-on-october-5-2026",
+      "eventDate": "2026-10-05",
+      "city": "Shanghai",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Singapore on October 5?",
+      "slug": "highest-temperature-in-singapore-on-october-5-2026",
+      "eventDate": "2026-10-05",
+      "city": "Singapore",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Milan on October 5?",
+      "slug": "highest-temperature-in-milan-on-october-5-2026",
+      "eventDate": "2026-10-05",
+      "city": "Milan",
       "kind": "high",
       "marketCount": 11
     },
