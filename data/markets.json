@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-10-06T23:00:35Z",
+  "generatedAt": "2026-10-07T02:16:55Z",
   "markets": [
-    {
-      "title": "Lowest temperature in London on October 6?",
-      "slug": "lowest-temperature-in-london-on-october-6-2026",
-      "eventDate": "2026-10-06",
-      "city": "London",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in London on October 6?",
-      "slug": "highest-temperature-in-london-on-october-6-2026",
-      "eventDate": "2026-10-06",
-      "city": "London",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Highest temperature in Miami on October 6?",
       "slug": "highest-temperature-in-miami-on-october-6-2026",
