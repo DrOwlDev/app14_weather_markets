@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T14:44:40Z",
+  "generatedAt": "2026-10-08T20:15:27Z",
   "markets": [
     {
       "title": "Lowest temperature in London on October 8?",
@@ -18,26 +18,10 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Seoul (Incheon) on October 8?",
-      "slug": "lowest-temperature-in-seoul-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Seoul (Incheon)",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Ankara on October 8?",
       "slug": "lowest-temperature-in-ankara-on-october-8-2026",
       "eventDate": "2026-10-08",
       "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on October 8?",
-      "slug": "lowest-temperature-in-lucknow-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Lucknow",
       "kind": "low",
       "marketCount": 11
     },
@@ -54,30 +38,6 @@
       "slug": "lowest-temperature-in-tel-aviv-on-october-8-2026",
       "eventDate": "2026-10-08",
       "city": "Tel Aviv",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Tokyo on October 8?",
-      "slug": "lowest-temperature-in-tokyo-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Tokyo",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Hong Kong on October 8?",
-      "slug": "lowest-temperature-in-hong-kong-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Hong Kong",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Shanghai on October 8?",
-      "slug": "lowest-temperature-in-shanghai-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Shanghai",
       "kind": "low",
       "marketCount": 11
     },
@@ -106,54 +66,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Taipei on October 8?",
-      "slug": "lowest-temperature-in-taipei-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Taipei",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Chongqing on October 8?",
-      "slug": "lowest-temperature-in-chongqing-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Chongqing",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Beijing on October 8?",
-      "slug": "lowest-temperature-in-beijing-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Beijing",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Wuhan on October 8?",
-      "slug": "lowest-temperature-in-wuhan-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Wuhan",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Chengdu on October 8?",
-      "slug": "lowest-temperature-in-chengdu-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Chengdu",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Shenzhen on October 8?",
-      "slug": "lowest-temperature-in-shenzhen-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Shenzhen",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Moscow on October 8?",
       "slug": "lowest-temperature-in-moscow-on-october-8-2026",
       "eventDate": "2026-10-08",
@@ -166,14 +78,6 @@
       "slug": "lowest-temperature-in-istanbul-on-october-8-2026",
       "eventDate": "2026-10-08",
       "city": "Istanbul",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Busan on October 8?",
-      "slug": "lowest-temperature-in-busan-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Busan",
       "kind": "low",
       "marketCount": 11
     },
@@ -210,30 +114,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Guangzhou on October 8?",
-      "slug": "lowest-temperature-in-guangzhou-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Guangzhou",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Qingdao on October 8?",
-      "slug": "lowest-temperature-in-qingdao-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Qingdao",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Karachi on October 8?",
-      "slug": "lowest-temperature-in-karachi-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Karachi",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in London on October 8?",
       "slug": "highest-temperature-in-london-on-october-8-2026",
       "eventDate": "2026-10-08",
@@ -250,26 +130,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Seoul (Incheon) on October 8?",
-      "slug": "highest-temperature-in-seoul-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Seoul (Incheon)",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Ankara on October 8?",
       "slug": "highest-temperature-in-ankara-on-october-8-2026",
       "eventDate": "2026-10-08",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on October 8?",
-      "slug": "highest-temperature-in-lucknow-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
@@ -286,38 +150,6 @@
       "slug": "highest-temperature-in-tel-aviv-on-october-8-2026",
       "eventDate": "2026-10-08",
       "city": "Tel Aviv",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Tokyo on October 8?",
-      "slug": "highest-temperature-in-tokyo-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Tokyo",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Hong Kong on October 8?",
-      "slug": "highest-temperature-in-hong-kong-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Hong Kong",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Shanghai on October 8?",
-      "slug": "highest-temperature-in-shanghai-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Shanghai",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Singapore on October 8?",
-      "slug": "highest-temperature-in-singapore-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Singapore",
       "kind": "high",
       "marketCount": 11
     },
@@ -346,54 +178,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Taipei on October 8?",
-      "slug": "highest-temperature-in-taipei-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Taipei",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chongqing on October 8?",
-      "slug": "highest-temperature-in-chongqing-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Chongqing",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Beijing on October 8?",
-      "slug": "highest-temperature-in-beijing-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Beijing",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Wuhan on October 8?",
-      "slug": "highest-temperature-in-wuhan-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Wuhan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chengdu on October 8?",
-      "slug": "highest-temperature-in-chengdu-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Chengdu",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Shenzhen on October 8?",
-      "slug": "highest-temperature-in-shenzhen-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Shenzhen",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Moscow on October 8?",
       "slug": "highest-temperature-in-moscow-on-october-8-2026",
       "eventDate": "2026-10-08",
@@ -406,14 +190,6 @@
       "slug": "highest-temperature-in-istanbul-on-october-8-2026",
       "eventDate": "2026-10-08",
       "city": "Istanbul",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Busan on October 8?",
-      "slug": "highest-temperature-in-busan-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Busan",
       "kind": "high",
       "marketCount": 11
     },
@@ -434,14 +210,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Kuala Lumpur on October 8?",
-      "slug": "highest-temperature-in-kuala-lumpur-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Kuala Lumpur",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Jeddah on October 8?",
       "slug": "highest-temperature-in-jeddah-on-october-8-2026",
       "eventDate": "2026-10-08",
@@ -454,38 +222,6 @@
       "slug": "highest-temperature-in-cape-town-on-october-8-2026",
       "eventDate": "2026-10-08",
       "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Guangzhou on October 8?",
-      "slug": "highest-temperature-in-guangzhou-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Guangzhou",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Qingdao on October 8?",
-      "slug": "highest-temperature-in-qingdao-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Qingdao",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Karachi on October 8?",
-      "slug": "highest-temperature-in-karachi-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Karachi",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Manila on October 8?",
-      "slug": "highest-temperature-in-manila-on-october-8-2026",
-      "eventDate": "2026-10-08",
-      "city": "Manila",
       "kind": "high",
       "marketCount": 11
     },
