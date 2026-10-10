@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T23:15:01Z",
+  "generatedAt": "2026-10-10T02:26:13Z",
   "markets": [
     {
       "title": "Highest temperature in Miami on October 9?",
@@ -582,94 +582,6 @@
       "slug": "highest-temperature-in-warsaw-on-october-10-2026",
       "eventDate": "2026-10-10",
       "city": "Warsaw",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Taipei on October 10?",
-      "slug": "highest-temperature-in-taipei-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Taipei",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chongqing on October 10?",
-      "slug": "highest-temperature-in-chongqing-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Chongqing",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Beijing on October 10?",
-      "slug": "highest-temperature-in-beijing-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Beijing",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Wuhan on October 10?",
-      "slug": "highest-temperature-in-wuhan-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Wuhan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chengdu on October 10?",
-      "slug": "highest-temperature-in-chengdu-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Chengdu",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Shenzhen on October 10?",
-      "slug": "highest-temperature-in-shenzhen-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Shenzhen",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Moscow on October 10?",
-      "slug": "highest-temperature-in-moscow-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Moscow",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Istanbul on October 10?",
-      "slug": "highest-temperature-in-istanbul-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Istanbul",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Busan on October 10?",
-      "slug": "highest-temperature-in-busan-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Busan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Amsterdam on October 10?",
-      "slug": "highest-temperature-in-amsterdam-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Amsterdam",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Helsinki on October 10?",
-      "slug": "highest-temperature-in-helsinki-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Helsinki",
       "kind": "high",
       "marketCount": 11
     },
@@ -1470,6 +1382,94 @@
       "slug": "highest-temperature-in-shenzhen-on-october-11-2026",
       "eventDate": "2026-10-11",
       "city": "Shenzhen",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Moscow on October 11?",
+      "slug": "highest-temperature-in-moscow-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Moscow",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Istanbul on October 11?",
+      "slug": "highest-temperature-in-istanbul-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Istanbul",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Busan on October 11?",
+      "slug": "highest-temperature-in-busan-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Busan",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Amsterdam on October 11?",
+      "slug": "highest-temperature-in-amsterdam-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Amsterdam",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Helsinki on October 11?",
+      "slug": "highest-temperature-in-helsinki-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Helsinki",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Kuala Lumpur on October 11?",
+      "slug": "highest-temperature-in-kuala-lumpur-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Kuala Lumpur",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Jeddah on October 11?",
+      "slug": "highest-temperature-in-jeddah-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Jeddah",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Cape Town on October 11?",
+      "slug": "highest-temperature-in-cape-town-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Cape Town",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Guangzhou on October 11?",
+      "slug": "highest-temperature-in-guangzhou-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Guangzhou",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Qingdao on October 11?",
+      "slug": "highest-temperature-in-qingdao-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Qingdao",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Karachi on October 11?",
+      "slug": "highest-temperature-in-karachi-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Karachi",
       "kind": "high",
       "marketCount": 11
     },
