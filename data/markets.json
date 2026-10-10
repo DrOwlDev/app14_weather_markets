@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:11:48Z",
+  "generatedAt": "2026-10-10T22:37:48Z",
   "markets": [
     {
       "title": "Lowest temperature in London on October 10?",
@@ -10,219 +10,11 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Paris on October 10?",
-      "slug": "lowest-temperature-in-paris-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Paris",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Ankara on October 10?",
-      "slug": "lowest-temperature-in-ankara-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Munich on October 10?",
-      "slug": "lowest-temperature-in-munich-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Munich",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Tel Aviv on October 10?",
-      "slug": "lowest-temperature-in-tel-aviv-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Tel Aviv",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Milan on October 10?",
-      "slug": "lowest-temperature-in-milan-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Milan",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Madrid on October 10?",
-      "slug": "lowest-temperature-in-madrid-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Madrid",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Warsaw on October 10?",
-      "slug": "lowest-temperature-in-warsaw-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Warsaw",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Moscow on October 10?",
-      "slug": "lowest-temperature-in-moscow-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Moscow",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Istanbul on October 10?",
-      "slug": "lowest-temperature-in-istanbul-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Istanbul",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Amsterdam on October 10?",
-      "slug": "lowest-temperature-in-amsterdam-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Amsterdam",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Helsinki on October 10?",
-      "slug": "lowest-temperature-in-helsinki-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Helsinki",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Jeddah on October 10?",
-      "slug": "lowest-temperature-in-jeddah-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Jeddah",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in London on October 10?",
       "slug": "highest-temperature-in-london-on-october-10-2026",
       "eventDate": "2026-10-10",
       "city": "London",
       "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Paris on October 10?",
-      "slug": "highest-temperature-in-paris-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Paris",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Ankara on October 10?",
-      "slug": "highest-temperature-in-ankara-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Munich on October 10?",
-      "slug": "highest-temperature-in-munich-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Munich",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Tel Aviv on October 10?",
-      "slug": "highest-temperature-in-tel-aviv-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Tel Aviv",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Milan on October 10?",
-      "slug": "highest-temperature-in-milan-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Milan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Madrid on October 10?",
-      "slug": "highest-temperature-in-madrid-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Madrid",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Warsaw on October 10?",
-      "slug": "highest-temperature-in-warsaw-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Warsaw",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Moscow on October 10?",
-      "slug": "highest-temperature-in-moscow-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Moscow",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Istanbul on October 10?",
-      "slug": "highest-temperature-in-istanbul-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Istanbul",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Amsterdam on October 10?",
-      "slug": "highest-temperature-in-amsterdam-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Amsterdam",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Helsinki on October 10?",
-      "slug": "highest-temperature-in-helsinki-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Helsinki",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Jeddah on October 10?",
-      "slug": "highest-temperature-in-jeddah-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Jeddah",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Cape Town on October 10?",
-      "slug": "highest-temperature-in-cape-town-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Cape Town on October 10?",
-      "slug": "lowest-temperature-in-cape-town-on-october-10-2026",
-      "eventDate": "2026-10-10",
-      "city": "Cape Town",
-      "kind": "low",
       "marketCount": 11
     },
     {
@@ -566,6 +358,22 @@
       "slug": "lowest-temperature-in-madrid-on-october-11-2026",
       "eventDate": "2026-10-11",
       "city": "Madrid",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Warsaw on October 11?",
+      "slug": "lowest-temperature-in-warsaw-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Warsaw",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Taipei on October 11?",
+      "slug": "lowest-temperature-in-taipei-on-october-11-2026",
+      "eventDate": "2026-10-11",
+      "city": "Taipei",
       "kind": "low",
       "marketCount": 11
     },
@@ -1350,22 +1158,6 @@
       "slug": "highest-temperature-in-ankara-on-october-12-2026",
       "eventDate": "2026-10-12",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Wellington on October 12?",
-      "slug": "highest-temperature-in-wellington-on-october-12-2026",
-      "eventDate": "2026-10-12",
-      "city": "Wellington",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on October 12?",
-      "slug": "highest-temperature-in-lucknow-on-october-12-2026",
-      "eventDate": "2026-10-12",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
