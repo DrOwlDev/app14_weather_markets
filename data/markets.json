@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-10-11T22:49:40Z",
+  "generatedAt": "2026-10-12T01:54:17Z",
   "markets": [
-    {
-      "title": "Lowest temperature in London on October 11?",
-      "slug": "lowest-temperature-in-london-on-october-11-2026",
-      "eventDate": "2026-10-11",
-      "city": "London",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in London on October 11?",
-      "slug": "highest-temperature-in-london-on-october-11-2026",
-      "eventDate": "2026-10-11",
-      "city": "London",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Highest temperature in Dallas on October 11?",
       "slug": "highest-temperature-in-dallas-on-october-11-2026",
