@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T16:54:44Z",
+  "generatedAt": "2026-10-17T19:04:02Z",
   "markets": [
     {
       "title": "Lowest temperature in London on October 17?",
@@ -130,14 +130,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Lucknow on October 17?",
-      "slug": "highest-temperature-in-lucknow-on-october-17-2026",
-      "eventDate": "2026-10-17",
-      "city": "Lucknow",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Munich on October 17?",
       "slug": "highest-temperature-in-munich-on-october-17-2026",
       "eventDate": "2026-10-17",
@@ -226,34 +218,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Karachi on October 17?",
-      "slug": "highest-temperature-in-karachi-on-october-17-2026",
-      "eventDate": "2026-10-17",
-      "city": "Karachi",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on October 17?",
-      "slug": "lowest-temperature-in-lucknow-on-october-17-2026",
-      "eventDate": "2026-10-17",
-      "city": "Lucknow",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Cape Town on October 17?",
       "slug": "lowest-temperature-in-cape-town-on-october-17-2026",
       "eventDate": "2026-10-17",
       "city": "Cape Town",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Karachi on October 17?",
-      "slug": "lowest-temperature-in-karachi-on-october-17-2026",
-      "eventDate": "2026-10-17",
-      "city": "Karachi",
       "kind": "low",
       "marketCount": 11
     },
