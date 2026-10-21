@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-10-20T22:26:51Z",
+  "generatedAt": "2026-10-21T00:50:03Z",
   "markets": [
-    {
-      "title": "Lowest temperature in London on October 20?",
-      "slug": "lowest-temperature-in-london-on-october-20-2026",
-      "eventDate": "2026-10-20",
-      "city": "London",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in London on October 20?",
-      "slug": "highest-temperature-in-london-on-october-20-2026",
-      "eventDate": "2026-10-20",
-      "city": "London",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Highest temperature in NYC on October 20?",
       "slug": "highest-temperature-in-nyc-on-october-20-2026",
