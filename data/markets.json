@@ -1,54 +1,6 @@
 {
-  "generatedAt": "2026-10-23T06:34:24Z",
+  "generatedAt": "2026-10-23T12:04:29Z",
   "markets": [
-    {
-      "title": "Lowest temperature in Seattle on October 22?",
-      "slug": "lowest-temperature-in-seattle-on-october-22-2026",
-      "eventDate": "2026-10-22",
-      "city": "Seattle",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Los Angeles on October 22?",
-      "slug": "lowest-temperature-in-los-angeles-on-october-22-2026",
-      "eventDate": "2026-10-22",
-      "city": "Los Angeles",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in San Francisco on October 22?",
-      "slug": "lowest-temperature-in-san-francisco-on-october-22-2026",
-      "eventDate": "2026-10-22",
-      "city": "San Francisco",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Seattle on October 22?",
-      "slug": "highest-temperature-in-seattle-on-october-22-2026",
-      "eventDate": "2026-10-22",
-      "city": "Seattle",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Los Angeles on October 22?",
-      "slug": "highest-temperature-in-los-angeles-on-october-22-2026",
-      "eventDate": "2026-10-22",
-      "city": "Los Angeles",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in San Francisco on October 22?",
-      "slug": "highest-temperature-in-san-francisco-on-october-22-2026",
-      "eventDate": "2026-10-22",
-      "city": "San Francisco",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Lowest temperature in London on October 23?",
       "slug": "lowest-temperature-in-london-on-october-23-2026",
@@ -78,14 +30,6 @@
       "slug": "lowest-temperature-in-ankara-on-october-23-2026",
       "eventDate": "2026-10-23",
       "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Wellington on October 23?",
-      "slug": "lowest-temperature-in-wellington-on-october-23-2026",
-      "eventDate": "2026-10-23",
-      "city": "Wellington",
       "kind": "low",
       "marketCount": 11
     },
@@ -294,14 +238,6 @@
       "slug": "highest-temperature-in-ankara-on-october-23-2026",
       "eventDate": "2026-10-23",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Wellington on October 23?",
-      "slug": "highest-temperature-in-wellington-on-october-23-2026",
-      "eventDate": "2026-10-23",
-      "city": "Wellington",
       "kind": "high",
       "marketCount": 11
     },
@@ -2047,6 +1983,190 @@
       "eventDate": "2026-10-25",
       "city": "London",
       "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in London on October 25?",
+      "slug": "highest-temperature-in-london-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "London",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Miami on October 25?",
+      "slug": "highest-temperature-in-miami-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Miami",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in NYC on October 25?",
+      "slug": "lowest-temperature-in-nyc-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "NYC",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Dallas on October 25?",
+      "slug": "lowest-temperature-in-dallas-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Dallas",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Atlanta on October 25?",
+      "slug": "lowest-temperature-in-atlanta-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Atlanta",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Miami on October 25?",
+      "slug": "lowest-temperature-in-miami-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Miami",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chicago on October 25?",
+      "slug": "lowest-temperature-in-chicago-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Chicago",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Austin on October 25?",
+      "slug": "lowest-temperature-in-austin-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Austin",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Denver on October 25?",
+      "slug": "lowest-temperature-in-denver-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Denver",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Houston on October 25?",
+      "slug": "lowest-temperature-in-houston-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Houston",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in NYC on October 25?",
+      "slug": "highest-temperature-in-nyc-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "NYC",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Dallas on October 25?",
+      "slug": "highest-temperature-in-dallas-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Dallas",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Atlanta on October 25?",
+      "slug": "highest-temperature-in-atlanta-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Atlanta",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chicago on October 25?",
+      "slug": "highest-temperature-in-chicago-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Chicago",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Austin on October 25?",
+      "slug": "highest-temperature-in-austin-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Austin",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Denver on October 25?",
+      "slug": "highest-temperature-in-denver-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Denver",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Houston on October 25?",
+      "slug": "highest-temperature-in-houston-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Houston",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Seattle on October 25?",
+      "slug": "lowest-temperature-in-seattle-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Seattle",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Los Angeles on October 25?",
+      "slug": "lowest-temperature-in-los-angeles-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Los Angeles",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in San Francisco on October 25?",
+      "slug": "lowest-temperature-in-san-francisco-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "San Francisco",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Seattle on October 25?",
+      "slug": "highest-temperature-in-seattle-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Seattle",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Los Angeles on October 25?",
+      "slug": "highest-temperature-in-los-angeles-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "Los Angeles",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in San Francisco on October 25?",
+      "slug": "highest-temperature-in-san-francisco-on-october-25-2026",
+      "eventDate": "2026-10-25",
+      "city": "San Francisco",
+      "kind": "high",
       "marketCount": 11
     }
   ]
