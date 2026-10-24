@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:48:22Z",
+  "generatedAt": "2026-10-24T19:53:31Z",
   "markets": [
     {
       "title": "Lowest temperature in London on October 24?",
@@ -22,14 +22,6 @@
       "slug": "lowest-temperature-in-ankara-on-october-24-2026",
       "eventDate": "2026-10-24",
       "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on October 24?",
-      "slug": "lowest-temperature-in-lucknow-on-october-24-2026",
-      "eventDate": "2026-10-24",
-      "city": "Lucknow",
       "kind": "low",
       "marketCount": 11
     },
@@ -122,14 +114,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Karachi on October 24?",
-      "slug": "lowest-temperature-in-karachi-on-october-24-2026",
-      "eventDate": "2026-10-24",
-      "city": "Karachi",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in London on October 24?",
       "slug": "highest-temperature-in-london-on-october-24-2026",
       "eventDate": "2026-10-24",
@@ -150,14 +134,6 @@
       "slug": "highest-temperature-in-ankara-on-october-24-2026",
       "eventDate": "2026-10-24",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on October 24?",
-      "slug": "highest-temperature-in-lucknow-on-october-24-2026",
-      "eventDate": "2026-10-24",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
@@ -246,14 +222,6 @@
       "slug": "highest-temperature-in-cape-town-on-october-24-2026",
       "eventDate": "2026-10-24",
       "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Karachi on October 24?",
-      "slug": "highest-temperature-in-karachi-on-october-24-2026",
-      "eventDate": "2026-10-24",
-      "city": "Karachi",
       "kind": "high",
       "marketCount": 11
     },
@@ -1358,14 +1326,6 @@
       "slug": "lowest-temperature-in-warsaw-on-october-26-2026",
       "eventDate": "2026-10-26",
       "city": "Warsaw",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Taipei on October 26?",
-      "slug": "lowest-temperature-in-taipei-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Taipei",
       "kind": "low",
       "marketCount": 11
     },
