@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-10-24T22:14:42Z",
+  "generatedAt": "2026-10-25T00:24:44Z",
   "markets": [
-    {
-      "title": "Lowest temperature in London on October 24?",
-      "slug": "lowest-temperature-in-london-on-october-24-2026",
-      "eventDate": "2026-10-24",
-      "city": "London",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in London on October 24?",
-      "slug": "highest-temperature-in-london-on-october-24-2026",
-      "eventDate": "2026-10-24",
-      "city": "London",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Highest temperature in NYC on October 24?",
       "slug": "highest-temperature-in-nyc-on-october-24-2026",
@@ -734,14 +718,6 @@
       "slug": "highest-temperature-in-qingdao-on-october-25-2026",
       "eventDate": "2026-10-25",
       "city": "Qingdao",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Karachi on October 25?",
-      "slug": "highest-temperature-in-karachi-on-october-25-2026",
-      "eventDate": "2026-10-25",
-      "city": "Karachi",
       "kind": "high",
       "marketCount": 11
     },
@@ -1526,6 +1502,22 @@
       "slug": "highest-temperature-in-nyc-on-october-26-2026",
       "eventDate": "2026-10-26",
       "city": "NYC",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Dallas on October 26?",
+      "slug": "highest-temperature-in-dallas-on-october-26-2026",
+      "eventDate": "2026-10-26",
+      "city": "Dallas",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Miami on October 26?",
+      "slug": "highest-temperature-in-miami-on-october-26-2026",
+      "eventDate": "2026-10-26",
+      "city": "Miami",
       "kind": "high",
       "marketCount": 11
     },
