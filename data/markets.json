@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-10-26T17:31:19Z",
+  "generatedAt": "2026-10-26T21:51:16Z",
   "markets": [
     {
       "title": "Lowest temperature in Paris on October 26?",
       "slug": "lowest-temperature-in-paris-on-october-26-2026",
       "eventDate": "2026-10-26",
       "city": "Paris",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Ankara on October 26?",
-      "slug": "lowest-temperature-in-ankara-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on October 26?",
-      "slug": "lowest-temperature-in-lucknow-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Lucknow",
       "kind": "low",
       "marketCount": 11
     },
@@ -66,22 +50,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Moscow on October 26?",
-      "slug": "lowest-temperature-in-moscow-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Moscow",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Istanbul on October 26?",
-      "slug": "lowest-temperature-in-istanbul-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Istanbul",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Amsterdam on October 26?",
       "slug": "lowest-temperature-in-amsterdam-on-october-26-2026",
       "eventDate": "2026-10-26",
@@ -98,14 +66,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Jeddah on October 26?",
-      "slug": "lowest-temperature-in-jeddah-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Jeddah",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Cape Town on October 26?",
       "slug": "lowest-temperature-in-cape-town-on-october-26-2026",
       "eventDate": "2026-10-26",
@@ -114,34 +74,10 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Karachi on October 26?",
-      "slug": "lowest-temperature-in-karachi-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Karachi",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Paris on October 26?",
       "slug": "highest-temperature-in-paris-on-october-26-2026",
       "eventDate": "2026-10-26",
       "city": "Paris",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Ankara on October 26?",
-      "slug": "highest-temperature-in-ankara-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on October 26?",
-      "slug": "highest-temperature-in-lucknow-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
@@ -186,22 +122,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Moscow on October 26?",
-      "slug": "highest-temperature-in-moscow-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Moscow",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Istanbul on October 26?",
-      "slug": "highest-temperature-in-istanbul-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Istanbul",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Amsterdam on October 26?",
       "slug": "highest-temperature-in-amsterdam-on-october-26-2026",
       "eventDate": "2026-10-26",
@@ -218,26 +138,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Jeddah on October 26?",
-      "slug": "highest-temperature-in-jeddah-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Jeddah",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Cape Town on October 26?",
       "slug": "highest-temperature-in-cape-town-on-october-26-2026",
       "eventDate": "2026-10-26",
       "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Karachi on October 26?",
-      "slug": "highest-temperature-in-karachi-on-october-26-2026",
-      "eventDate": "2026-10-26",
-      "city": "Karachi",
       "kind": "high",
       "marketCount": 11
     },
