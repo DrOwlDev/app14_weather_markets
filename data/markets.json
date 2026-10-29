@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-10-28T23:32:57Z",
+  "generatedAt": "2026-10-29T02:50:15Z",
   "markets": [
-    {
-      "title": "Lowest temperature in London on October 28?",
-      "slug": "lowest-temperature-in-london-on-october-28-2026",
-      "eventDate": "2026-10-28",
-      "city": "London",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in London on October 28?",
-      "slug": "highest-temperature-in-london-on-october-28-2026",
-      "eventDate": "2026-10-28",
-      "city": "London",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Highest temperature in Dallas on October 28?",
       "slug": "highest-temperature-in-dallas-on-october-28-2026",
