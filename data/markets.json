@@ -1,19 +1,11 @@
 {
-  "generatedAt": "2026-10-29T16:03:06Z",
+  "generatedAt": "2026-10-29T21:04:37Z",
   "markets": [
     {
       "title": "Lowest temperature in Paris on October 29?",
       "slug": "lowest-temperature-in-paris-on-october-29-2026",
       "eventDate": "2026-10-29",
       "city": "Paris",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Ankara on October 29?",
-      "slug": "lowest-temperature-in-ankara-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Ankara",
       "kind": "low",
       "marketCount": 11
     },
@@ -58,22 +50,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Moscow on October 29?",
-      "slug": "lowest-temperature-in-moscow-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Moscow",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Istanbul on October 29?",
-      "slug": "lowest-temperature-in-istanbul-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Istanbul",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Amsterdam on October 29?",
       "slug": "lowest-temperature-in-amsterdam-on-october-29-2026",
       "eventDate": "2026-10-29",
@@ -90,34 +66,10 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Jeddah on October 29?",
-      "slug": "lowest-temperature-in-jeddah-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Jeddah",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Paris on October 29?",
       "slug": "highest-temperature-in-paris-on-october-29-2026",
       "eventDate": "2026-10-29",
       "city": "Paris",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Ankara on October 29?",
-      "slug": "highest-temperature-in-ankara-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on October 29?",
-      "slug": "highest-temperature-in-lucknow-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
@@ -162,22 +114,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Moscow on October 29?",
-      "slug": "highest-temperature-in-moscow-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Moscow",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Istanbul on October 29?",
-      "slug": "highest-temperature-in-istanbul-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Istanbul",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Amsterdam on October 29?",
       "slug": "highest-temperature-in-amsterdam-on-october-29-2026",
       "eventDate": "2026-10-29",
@@ -194,14 +130,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Jeddah on October 29?",
-      "slug": "highest-temperature-in-jeddah-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Jeddah",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Cape Town on October 29?",
       "slug": "highest-temperature-in-cape-town-on-october-29-2026",
       "eventDate": "2026-10-29",
@@ -210,34 +138,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Karachi on October 29?",
-      "slug": "highest-temperature-in-karachi-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Karachi",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on October 29?",
-      "slug": "lowest-temperature-in-lucknow-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Lucknow",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Cape Town on October 29?",
       "slug": "lowest-temperature-in-cape-town-on-october-29-2026",
       "eventDate": "2026-10-29",
       "city": "Cape Town",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Karachi on October 29?",
-      "slug": "lowest-temperature-in-karachi-on-october-29-2026",
-      "eventDate": "2026-10-29",
-      "city": "Karachi",
       "kind": "low",
       "marketCount": 11
     },
