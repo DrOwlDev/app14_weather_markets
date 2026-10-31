@@ -1,254 +1,6 @@
 {
-  "generatedAt": "2026-10-31T01:58:00Z",
+  "generatedAt": "2026-10-31T08:17:45Z",
   "markets": [
-    {
-      "title": "Highest temperature in Dallas on October 30?",
-      "slug": "highest-temperature-in-dallas-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Dallas",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Atlanta on October 30?",
-      "slug": "highest-temperature-in-atlanta-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Atlanta",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Miami on October 30?",
-      "slug": "highest-temperature-in-miami-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Miami",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in NYC on October 30?",
-      "slug": "lowest-temperature-in-nyc-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "NYC",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Dallas on October 30?",
-      "slug": "lowest-temperature-in-dallas-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Dallas",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Atlanta on October 30?",
-      "slug": "lowest-temperature-in-atlanta-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Atlanta",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Miami on October 30?",
-      "slug": "lowest-temperature-in-miami-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Miami",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Chicago on October 30?",
-      "slug": "lowest-temperature-in-chicago-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Chicago",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Austin on October 30?",
-      "slug": "lowest-temperature-in-austin-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Austin",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Denver on October 30?",
-      "slug": "lowest-temperature-in-denver-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Denver",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Houston on October 30?",
-      "slug": "lowest-temperature-in-houston-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Houston",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in NYC on October 30?",
-      "slug": "highest-temperature-in-nyc-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "NYC",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chicago on October 30?",
-      "slug": "highest-temperature-in-chicago-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Chicago",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Austin on October 30?",
-      "slug": "highest-temperature-in-austin-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Austin",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Denver on October 30?",
-      "slug": "highest-temperature-in-denver-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Denver",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Houston on October 30?",
-      "slug": "highest-temperature-in-houston-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Houston",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Seattle on October 30?",
-      "slug": "lowest-temperature-in-seattle-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Seattle",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Los Angeles on October 30?",
-      "slug": "lowest-temperature-in-los-angeles-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Los Angeles",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in San Francisco on October 30?",
-      "slug": "lowest-temperature-in-san-francisco-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "San Francisco",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Seattle on October 30?",
-      "slug": "highest-temperature-in-seattle-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Seattle",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Los Angeles on October 30?",
-      "slug": "highest-temperature-in-los-angeles-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Los Angeles",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in San Francisco on October 30?",
-      "slug": "highest-temperature-in-san-francisco-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "San Francisco",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Sao Paulo on October 30?",
-      "slug": "lowest-temperature-in-sao-paulo-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Sao Paulo",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Buenos Aires on October 30?",
-      "slug": "lowest-temperature-in-buenos-aires-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Buenos Aires",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Toronto on October 30?",
-      "slug": "lowest-temperature-in-toronto-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Toronto",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Mexico City on October 30?",
-      "slug": "lowest-temperature-in-mexico-city-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Mexico City",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Sao Paulo on October 30?",
-      "slug": "highest-temperature-in-sao-paulo-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Sao Paulo",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Buenos Aires on October 30?",
-      "slug": "highest-temperature-in-buenos-aires-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Buenos Aires",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Toronto on October 30?",
-      "slug": "highest-temperature-in-toronto-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Toronto",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Mexico City on October 30?",
-      "slug": "highest-temperature-in-mexico-city-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Mexico City",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Panama City on October 30?",
-      "slug": "highest-temperature-in-panama-city-on-october-30-2026",
-      "eventDate": "2026-10-30",
-      "city": "Panama City",
-      "kind": "high",
-      "marketCount": 11
-    },
     {
       "title": "Lowest temperature in Paris on October 31?",
       "slug": "lowest-temperature-in-paris-on-october-31-2026",
@@ -951,6 +703,22 @@
       "eventDate": "2026-10-31",
       "city": "Toronto",
       "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Mexico City on October 31?",
+      "slug": "lowest-temperature-in-mexico-city-on-october-31-2026",
+      "eventDate": "2026-10-31",
+      "city": "Mexico City",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Sao Paulo on October 31?",
+      "slug": "highest-temperature-in-sao-paulo-on-october-31-2026",
+      "eventDate": "2026-10-31",
+      "city": "Sao Paulo",
+      "kind": "high",
       "marketCount": 11
     },
     {
@@ -1750,6 +1518,606 @@
       "slug": "highest-temperature-in-panama-city-on-november-1-2026",
       "eventDate": "2026-11-01",
       "city": "Panama City",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Ankara on November 2?",
+      "slug": "lowest-temperature-in-ankara-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Ankara",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Wellington on November 2?",
+      "slug": "lowest-temperature-in-wellington-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Wellington",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Lucknow on November 2?",
+      "slug": "lowest-temperature-in-lucknow-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Lucknow",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Munich on November 2?",
+      "slug": "lowest-temperature-in-munich-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Munich",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Tel Aviv on November 2?",
+      "slug": "lowest-temperature-in-tel-aviv-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Tel Aviv",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Tokyo on November 2?",
+      "slug": "lowest-temperature-in-tokyo-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Tokyo",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Hong Kong on November 2?",
+      "slug": "lowest-temperature-in-hong-kong-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Hong Kong",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Shanghai on November 2?",
+      "slug": "lowest-temperature-in-shanghai-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Shanghai",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Milan on November 2?",
+      "slug": "lowest-temperature-in-milan-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Milan",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Madrid on November 2?",
+      "slug": "lowest-temperature-in-madrid-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Madrid",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Warsaw on November 2?",
+      "slug": "lowest-temperature-in-warsaw-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Warsaw",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Taipei on November 2?",
+      "slug": "lowest-temperature-in-taipei-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Taipei",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chongqing on November 2?",
+      "slug": "lowest-temperature-in-chongqing-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Chongqing",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Beijing on November 2?",
+      "slug": "lowest-temperature-in-beijing-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Beijing",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Wuhan on November 2?",
+      "slug": "lowest-temperature-in-wuhan-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Wuhan",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chengdu on November 2?",
+      "slug": "lowest-temperature-in-chengdu-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Chengdu",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Shenzhen on November 2?",
+      "slug": "lowest-temperature-in-shenzhen-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Shenzhen",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Moscow on November 2?",
+      "slug": "lowest-temperature-in-moscow-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Moscow",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Istanbul on November 2?",
+      "slug": "lowest-temperature-in-istanbul-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Istanbul",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Busan on November 2?",
+      "slug": "lowest-temperature-in-busan-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Busan",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Amsterdam on November 2?",
+      "slug": "lowest-temperature-in-amsterdam-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Amsterdam",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Helsinki on November 2?",
+      "slug": "lowest-temperature-in-helsinki-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Helsinki",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Jeddah on November 2?",
+      "slug": "lowest-temperature-in-jeddah-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Jeddah",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Cape Town on November 2?",
+      "slug": "lowest-temperature-in-cape-town-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Cape Town",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Guangzhou on November 2?",
+      "slug": "lowest-temperature-in-guangzhou-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Guangzhou",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Qingdao on November 2?",
+      "slug": "lowest-temperature-in-qingdao-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Qingdao",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Karachi on November 2?",
+      "slug": "lowest-temperature-in-karachi-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Karachi",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Paris on November 2?",
+      "slug": "highest-temperature-in-paris-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Paris",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Seoul (Incheon) on November 2?",
+      "slug": "highest-temperature-in-seoul-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Seoul (Incheon)",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Ankara on November 2?",
+      "slug": "highest-temperature-in-ankara-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Ankara",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Wellington on November 2?",
+      "slug": "highest-temperature-in-wellington-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Wellington",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Lucknow on November 2?",
+      "slug": "highest-temperature-in-lucknow-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Lucknow",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Munich on November 2?",
+      "slug": "highest-temperature-in-munich-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Munich",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Tel Aviv on November 2?",
+      "slug": "highest-temperature-in-tel-aviv-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Tel Aviv",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Tokyo on November 2?",
+      "slug": "highest-temperature-in-tokyo-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Tokyo",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Hong Kong on November 2?",
+      "slug": "highest-temperature-in-hong-kong-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Hong Kong",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Shanghai on November 2?",
+      "slug": "highest-temperature-in-shanghai-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Shanghai",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Singapore on November 2?",
+      "slug": "highest-temperature-in-singapore-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Singapore",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Milan on November 2?",
+      "slug": "highest-temperature-in-milan-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Milan",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Madrid on November 2?",
+      "slug": "highest-temperature-in-madrid-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Madrid",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Warsaw on November 2?",
+      "slug": "highest-temperature-in-warsaw-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Warsaw",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Taipei on November 2?",
+      "slug": "highest-temperature-in-taipei-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Taipei",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chongqing on November 2?",
+      "slug": "highest-temperature-in-chongqing-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Chongqing",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Beijing on November 2?",
+      "slug": "highest-temperature-in-beijing-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Beijing",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Wuhan on November 2?",
+      "slug": "highest-temperature-in-wuhan-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Wuhan",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chengdu on November 2?",
+      "slug": "highest-temperature-in-chengdu-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Chengdu",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Shenzhen on November 2?",
+      "slug": "highest-temperature-in-shenzhen-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Shenzhen",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Moscow on November 2?",
+      "slug": "highest-temperature-in-moscow-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Moscow",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Istanbul on November 2?",
+      "slug": "highest-temperature-in-istanbul-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Istanbul",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Busan on November 2?",
+      "slug": "highest-temperature-in-busan-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Busan",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Amsterdam on November 2?",
+      "slug": "highest-temperature-in-amsterdam-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Amsterdam",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Helsinki on November 2?",
+      "slug": "highest-temperature-in-helsinki-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Helsinki",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Kuala Lumpur on November 2?",
+      "slug": "highest-temperature-in-kuala-lumpur-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Kuala Lumpur",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Jeddah on November 2?",
+      "slug": "highest-temperature-in-jeddah-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Jeddah",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Cape Town on November 2?",
+      "slug": "highest-temperature-in-cape-town-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Cape Town",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Guangzhou on November 2?",
+      "slug": "highest-temperature-in-guangzhou-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Guangzhou",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Qingdao on November 2?",
+      "slug": "highest-temperature-in-qingdao-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Qingdao",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Karachi on November 2?",
+      "slug": "highest-temperature-in-karachi-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Karachi",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Manila on November 2?",
+      "slug": "highest-temperature-in-manila-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Manila",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in London on November 2?",
+      "slug": "lowest-temperature-in-london-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "London",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in London on November 2?",
+      "slug": "highest-temperature-in-london-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "London",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in NYC on November 2?",
+      "slug": "lowest-temperature-in-nyc-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "NYC",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Dallas on November 2?",
+      "slug": "lowest-temperature-in-dallas-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Dallas",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Atlanta on November 2?",
+      "slug": "lowest-temperature-in-atlanta-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Atlanta",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Miami on November 2?",
+      "slug": "lowest-temperature-in-miami-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Miami",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Chicago on November 2?",
+      "slug": "lowest-temperature-in-chicago-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Chicago",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Austin on November 2?",
+      "slug": "lowest-temperature-in-austin-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Austin",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Lowest temperature in Houston on November 2?",
+      "slug": "lowest-temperature-in-houston-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Houston",
+      "kind": "low",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in NYC on November 2?",
+      "slug": "highest-temperature-in-nyc-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "NYC",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Dallas on November 2?",
+      "slug": "highest-temperature-in-dallas-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Dallas",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Atlanta on November 2?",
+      "slug": "highest-temperature-in-atlanta-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Atlanta",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Miami on November 2?",
+      "slug": "highest-temperature-in-miami-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Miami",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Chicago on November 2?",
+      "slug": "highest-temperature-in-chicago-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Chicago",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Austin on November 2?",
+      "slug": "highest-temperature-in-austin-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Austin",
+      "kind": "high",
+      "marketCount": 11
+    },
+    {
+      "title": "Highest temperature in Houston on November 2?",
+      "slug": "highest-temperature-in-houston-on-november-2-2026",
+      "eventDate": "2026-11-02",
+      "city": "Houston",
       "kind": "high",
       "marketCount": 11
     }
