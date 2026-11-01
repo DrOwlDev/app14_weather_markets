@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T14:26:18Z",
+  "generatedAt": "2026-11-01T19:05:40Z",
   "markets": [
     {
       "title": "Lowest temperature in Paris on November 1?",
@@ -10,26 +10,10 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Seoul (Incheon) on November 1?",
-      "slug": "lowest-temperature-in-seoul-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Seoul (Incheon)",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Ankara on November 1?",
       "slug": "lowest-temperature-in-ankara-on-november-1-2026",
       "eventDate": "2026-11-01",
       "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on November 1?",
-      "slug": "lowest-temperature-in-lucknow-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Lucknow",
       "kind": "low",
       "marketCount": 11
     },
@@ -46,30 +30,6 @@
       "slug": "lowest-temperature-in-tel-aviv-on-november-1-2026",
       "eventDate": "2026-11-01",
       "city": "Tel Aviv",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Tokyo on November 1?",
-      "slug": "lowest-temperature-in-tokyo-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Tokyo",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Hong Kong on November 1?",
-      "slug": "lowest-temperature-in-hong-kong-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Hong Kong",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Shanghai on November 1?",
-      "slug": "lowest-temperature-in-shanghai-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Shanghai",
       "kind": "low",
       "marketCount": 11
     },
@@ -98,54 +58,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Taipei on November 1?",
-      "slug": "lowest-temperature-in-taipei-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Taipei",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Chongqing on November 1?",
-      "slug": "lowest-temperature-in-chongqing-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Chongqing",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Beijing on November 1?",
-      "slug": "lowest-temperature-in-beijing-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Beijing",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Wuhan on November 1?",
-      "slug": "lowest-temperature-in-wuhan-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Wuhan",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Chengdu on November 1?",
-      "slug": "lowest-temperature-in-chengdu-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Chengdu",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Shenzhen on November 1?",
-      "slug": "lowest-temperature-in-shenzhen-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Shenzhen",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Lowest temperature in Moscow on November 1?",
       "slug": "lowest-temperature-in-moscow-on-november-1-2026",
       "eventDate": "2026-11-01",
@@ -158,14 +70,6 @@
       "slug": "lowest-temperature-in-istanbul-on-november-1-2026",
       "eventDate": "2026-11-01",
       "city": "Istanbul",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Busan on November 1?",
-      "slug": "lowest-temperature-in-busan-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Busan",
       "kind": "low",
       "marketCount": 11
     },
@@ -202,30 +106,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Guangzhou on November 1?",
-      "slug": "lowest-temperature-in-guangzhou-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Guangzhou",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Qingdao on November 1?",
-      "slug": "lowest-temperature-in-qingdao-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Qingdao",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Karachi on November 1?",
-      "slug": "lowest-temperature-in-karachi-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Karachi",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Paris on November 1?",
       "slug": "highest-temperature-in-paris-on-november-1-2026",
       "eventDate": "2026-11-01",
@@ -234,26 +114,10 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Seoul (Incheon) on November 1?",
-      "slug": "highest-temperature-in-seoul-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Seoul (Incheon)",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Ankara on November 1?",
       "slug": "highest-temperature-in-ankara-on-november-1-2026",
       "eventDate": "2026-11-01",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on November 1?",
-      "slug": "highest-temperature-in-lucknow-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
@@ -270,38 +134,6 @@
       "slug": "highest-temperature-in-tel-aviv-on-november-1-2026",
       "eventDate": "2026-11-01",
       "city": "Tel Aviv",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Tokyo on November 1?",
-      "slug": "highest-temperature-in-tokyo-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Tokyo",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Hong Kong on November 1?",
-      "slug": "highest-temperature-in-hong-kong-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Hong Kong",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Shanghai on November 1?",
-      "slug": "highest-temperature-in-shanghai-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Shanghai",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Singapore on November 1?",
-      "slug": "highest-temperature-in-singapore-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Singapore",
       "kind": "high",
       "marketCount": 11
     },
@@ -330,54 +162,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Taipei on November 1?",
-      "slug": "highest-temperature-in-taipei-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Taipei",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chongqing on November 1?",
-      "slug": "highest-temperature-in-chongqing-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Chongqing",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Beijing on November 1?",
-      "slug": "highest-temperature-in-beijing-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Beijing",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Wuhan on November 1?",
-      "slug": "highest-temperature-in-wuhan-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Wuhan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Chengdu on November 1?",
-      "slug": "highest-temperature-in-chengdu-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Chengdu",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Shenzhen on November 1?",
-      "slug": "highest-temperature-in-shenzhen-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Shenzhen",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Moscow on November 1?",
       "slug": "highest-temperature-in-moscow-on-november-1-2026",
       "eventDate": "2026-11-01",
@@ -390,14 +174,6 @@
       "slug": "highest-temperature-in-istanbul-on-november-1-2026",
       "eventDate": "2026-11-01",
       "city": "Istanbul",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Busan on November 1?",
-      "slug": "highest-temperature-in-busan-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Busan",
       "kind": "high",
       "marketCount": 11
     },
@@ -418,14 +194,6 @@
       "marketCount": 11
     },
     {
-      "title": "Highest temperature in Kuala Lumpur on November 1?",
-      "slug": "highest-temperature-in-kuala-lumpur-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Kuala Lumpur",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in Jeddah on November 1?",
       "slug": "highest-temperature-in-jeddah-on-november-1-2026",
       "eventDate": "2026-11-01",
@@ -438,38 +206,6 @@
       "slug": "highest-temperature-in-cape-town-on-november-1-2026",
       "eventDate": "2026-11-01",
       "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Guangzhou on November 1?",
-      "slug": "highest-temperature-in-guangzhou-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Guangzhou",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Qingdao on November 1?",
-      "slug": "highest-temperature-in-qingdao-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Qingdao",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Karachi on November 1?",
-      "slug": "highest-temperature-in-karachi-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Karachi",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Manila on November 1?",
-      "slug": "highest-temperature-in-manila-on-november-1-2026",
-      "eventDate": "2026-11-01",
-      "city": "Manila",
       "kind": "high",
       "marketCount": 11
     },
