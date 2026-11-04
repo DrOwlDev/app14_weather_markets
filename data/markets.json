@@ -1,110 +1,6 @@
 {
-  "generatedAt": "2026-11-03T22:03:09Z",
+  "generatedAt": "2026-11-04T02:15:18Z",
   "markets": [
-    {
-      "title": "Lowest temperature in Paris on November 3?",
-      "slug": "lowest-temperature-in-paris-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Paris",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Munich on November 3?",
-      "slug": "lowest-temperature-in-munich-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Munich",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Milan on November 3?",
-      "slug": "lowest-temperature-in-milan-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Milan",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Madrid on November 3?",
-      "slug": "lowest-temperature-in-madrid-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Madrid",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Warsaw on November 3?",
-      "slug": "lowest-temperature-in-warsaw-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Warsaw",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Amsterdam on November 3?",
-      "slug": "lowest-temperature-in-amsterdam-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Amsterdam",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Paris on November 3?",
-      "slug": "highest-temperature-in-paris-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Paris",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Munich on November 3?",
-      "slug": "highest-temperature-in-munich-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Munich",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Milan on November 3?",
-      "slug": "highest-temperature-in-milan-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Milan",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Madrid on November 3?",
-      "slug": "highest-temperature-in-madrid-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Madrid",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Warsaw on November 3?",
-      "slug": "highest-temperature-in-warsaw-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Warsaw",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Amsterdam on November 3?",
-      "slug": "highest-temperature-in-amsterdam-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "Amsterdam",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in London on November 3?",
-      "slug": "lowest-temperature-in-london-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "London",
-      "kind": "low",
-      "marketCount": 11
-    },
     {
       "title": "Lowest temperature in NYC on November 3?",
       "slug": "lowest-temperature-in-nyc-on-november-3-2026",
@@ -159,14 +55,6 @@
       "eventDate": "2026-11-03",
       "city": "Houston",
       "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in London on November 3?",
-      "slug": "highest-temperature-in-london-on-november-3-2026",
-      "eventDate": "2026-11-03",
-      "city": "London",
-      "kind": "high",
       "marketCount": 11
     },
     {
