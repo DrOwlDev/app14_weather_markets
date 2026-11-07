@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T16:21:21Z",
+  "generatedAt": "2026-11-07T20:23:44Z",
   "markets": [
     {
       "title": "Lowest temperature in London on November 7?",
@@ -22,14 +22,6 @@
       "slug": "lowest-temperature-in-ankara-on-november-7-2026",
       "eventDate": "2026-11-07",
       "city": "Ankara",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
-      "title": "Lowest temperature in Lucknow on November 7?",
-      "slug": "lowest-temperature-in-lucknow-on-november-7-2026",
-      "eventDate": "2026-11-07",
-      "city": "Lucknow",
       "kind": "low",
       "marketCount": 11
     },
@@ -122,14 +114,6 @@
       "marketCount": 11
     },
     {
-      "title": "Lowest temperature in Karachi on November 7?",
-      "slug": "lowest-temperature-in-karachi-on-november-7-2026",
-      "eventDate": "2026-11-07",
-      "city": "Karachi",
-      "kind": "low",
-      "marketCount": 11
-    },
-    {
       "title": "Highest temperature in London on November 7?",
       "slug": "highest-temperature-in-london-on-november-7-2026",
       "eventDate": "2026-11-07",
@@ -150,14 +134,6 @@
       "slug": "highest-temperature-in-ankara-on-november-7-2026",
       "eventDate": "2026-11-07",
       "city": "Ankara",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Lucknow on November 7?",
-      "slug": "highest-temperature-in-lucknow-on-november-7-2026",
-      "eventDate": "2026-11-07",
-      "city": "Lucknow",
       "kind": "high",
       "marketCount": 11
     },
@@ -246,14 +222,6 @@
       "slug": "highest-temperature-in-cape-town-on-november-7-2026",
       "eventDate": "2026-11-07",
       "city": "Cape Town",
-      "kind": "high",
-      "marketCount": 11
-    },
-    {
-      "title": "Highest temperature in Karachi on November 7?",
-      "slug": "highest-temperature-in-karachi-on-november-7-2026",
-      "eventDate": "2026-11-07",
-      "city": "Karachi",
       "kind": "high",
       "marketCount": 11
     },
